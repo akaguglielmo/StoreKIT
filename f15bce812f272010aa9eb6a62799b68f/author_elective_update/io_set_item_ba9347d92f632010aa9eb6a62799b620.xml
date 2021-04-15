@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="DELETE">
+        <order>100</order>
+        <sc_cat_item display_value="Schedule an appointment">c11d32552f632010aa9eb6a62799b622</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2021-04-15 14:27:33</sys_created_on>
+        <sys_id>ba9347d92f632010aa9eb6a62799b620</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>csm_request_variable_set.Schedule an appointment</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>io_set_item_ba9347d92f632010aa9eb6a62799b620</sys_update_name>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2021-04-15 14:27:33</sys_updated_on>
+        <variable_set display_value="csm_request_variable_set">4c321bcb87032300d6b0a7da0acb0b1c</variable_set>
+    </io_set_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</application>
+        <file_path/>
+        <instance_id>c6669e5adb74d4907527d7c8f4961942</instance_id>
+        <instance_name>dev104046</instance_name>
+        <name>io_set_item_ba9347d92f632010aa9eb6a62799b620</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item"><io_set_item action="INSERT_OR_UPDATE"><order>100</order><sc_cat_item display_value="Schedule an appointment">c11d32552f632010aa9eb6a62799b622</sc_cat_item><sys_class_name>io_set_item</sys_class_name><sys_created_by>max</sys_created_by><sys_created_on>2021-04-15 14:27:33</sys_created_on><sys_id>ba9347d92f632010aa9eb6a62799b620</sys_id><sys_mod_count>1</sys_mod_count><sys_name>csm_request_variable_set.Schedule an appointment</sys_name><sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package><sys_policy/><sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope><sys_update_name>io_set_item_ba9347d92f632010aa9eb6a62799b620</sys_update_name><sys_updated_by>max</sys_updated_by><sys_updated_on>2021-04-15 14:27:33</sys_updated_on><variable_set display_value="csm_request_variable_set">4c321bcb87032300d6b0a7da0acb0b1c</variable_set></io_set_item></record_update>]]></payload>
+        <payload_hash>1172156045</payload_hash>
+        <record_name>csm_request_variable_set.Schedule an appointment</record_name>
+        <reverted_from/>
+        <source>920c3ad12f632010aa9eb6a62799b619</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2021-04-15 14:27:33</sys_created_on>
+        <sys_id>8f9347d92f632010aa9eb6a62799b627</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178d5ee17b90000001</sys_recorded_at>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2021-04-15 14:27:33</sys_updated_on>
+        <type>Catalog Variable Set</type>
+        <update_guid>c79347d96063201036baff8958525f27</update_guid>
+        <update_guid_history>c79347d96063201036baff8958525f27:1172156045</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="csm_request_variable_set.Schedule an appointment">21044fd92f632010aa9eb6a62799b6ee</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2021-04-15 14:29:22</sys_created_on>
+        <sys_db_object display_value="" name="io_set_item">io_set_item</sys_db_object>
+        <sys_id>09b7f72d07914f1980b7bc88ebe31ff9</sys_id>
+        <sys_metadata>ba9347d92f632010aa9eb6a62799b620</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>csm_request_variable_set.Schedule an appointment</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_scope_delete display_value="">0d898bf3e6634644a1482afa16c3d490</sys_scope_delete>
+        <sys_update_name>io_set_item_ba9347d92f632010aa9eb6a62799b620</sys_update_name>
+        <sys_update_version display_value="io_set_item_ba9347d92f632010aa9eb6a62799b620">8f9347d92f632010aa9eb6a62799b627</sys_update_version>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2021-04-15 14:29:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
