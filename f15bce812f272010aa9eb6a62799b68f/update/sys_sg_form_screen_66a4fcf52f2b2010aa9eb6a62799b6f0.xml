@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="Next Appointments Embedded Form Icon">f2a430392f2b2010aa9eb6a62799b67b</icon>
+        <item_view/>
+        <name>Next Appointments Embedded Form</name>
+        <override_context_with_data_item>false</override_context_with_data_item>
+        <roles_override/>
+        <segments_height>medium</segments_height>
+        <segments_min_width>medium</segments_min_width>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2021-04-16 17:19:59</sys_created_on>
+        <sys_id>66a4fcf52f2b2010aa9eb6a62799b6f0</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Next Appointments Embedded Form</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_form_screen_66a4fcf52f2b2010aa9eb6a62799b6f0</sys_update_name>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2021-04-16 17:20:00</sys_updated_on>
+        <table>sn_apptmnt_booking_appointment_booking</table>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Next Appointments Embedded Form View Config">7ea430392f2b2010aa9eb6a62799b60c</view_config>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=66a4fcf52f2b2010aa9eb6a62799b6f0"/>
+</record_update>

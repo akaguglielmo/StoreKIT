@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="csm_consumer" version="2" view="storekit">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Consumer - StoreKIT" name="csm_consumer" related_list="NULL" sys_domain="global" view="91bd2d532f632010aa9eb6a62799b6cc">cee9f99f2f632010aa9eb6a62799b6d7</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>cmn_location.consumer</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-21 14:13:24</sys_created_on>
+            <sys_id>8ee9f99f2f632010aa9eb6a62799b6d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-21 14:13:24</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Consumer - StoreKIT" name="csm_consumer" related_list="NULL" sys_domain="global" view="91bd2d532f632010aa9eb6a62799b6cc">cee9f99f2f632010aa9eb6a62799b6d7</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>sn_customerservice_case.consumer</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-21 14:13:24</sys_created_on>
+            <sys_id>86e9f99f2f632010aa9eb6a62799b6d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-21 14:13:24</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Consumer - StoreKIT" name="csm_consumer" related_list="NULL" sys_domain="global" view="91bd2d532f632010aa9eb6a62799b6cc">cee9f99f2f632010aa9eb6a62799b6d7</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>alm_asset.consumer</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-21 14:13:24</sys_created_on>
+            <sys_id>8ae9f99f2f632010aa9eb6a62799b6d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-21 14:13:24</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Consumer - StoreKIT" name="csm_consumer" related_list="NULL" sys_domain="global" view="91bd2d532f632010aa9eb6a62799b6cc">cee9f99f2f632010aa9eb6a62799b6d7</list_id>
+            <order_by/>
+            <position>3</position>
+            <related_list>REL:99af738853d8d0103a2eddeeff7b12b9</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-21 14:13:24</sys_created_on>
+            <sys_id>8ee9f99f2f632010aa9eb6a62799b6d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-21 14:13:24</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Consumer - StoreKIT" name="csm_consumer" related_list="NULL" sys_domain="global" view="91bd2d532f632010aa9eb6a62799b6cc">cee9f99f2f632010aa9eb6a62799b6d7</list_id>
+            <order_by/>
+            <position>4</position>
+            <related_list>sn_install_base_item.consumer</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-21 14:13:24</sys_created_on>
+            <sys_id>82e9f99f2f632010aa9eb6a62799b6da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-21 14:13:24</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Consumer - StoreKIT" name="csm_consumer" related_list="NULL" sys_domain="global" view="91bd2d532f632010aa9eb6a62799b6cc">cee9f99f2f632010aa9eb6a62799b6d7</list_id>
+            <order_by/>
+            <position>5</position>
+            <related_list>ast_contract.consumer</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-21 14:13:24</sys_created_on>
+            <sys_id>86e9f99f2f632010aa9eb6a62799b6da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-21 14:13:24</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Consumer - StoreKIT" name="csm_consumer" related_list="NULL" sys_domain="global" view="91bd2d532f632010aa9eb6a62799b6cc">cee9f99f2f632010aa9eb6a62799b6d7</list_id>
+            <order_by/>
+            <position>6</position>
+            <related_list>service_entitlement.consumer</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-21 14:13:24</sys_created_on>
+            <sys_id>8ae9f99f2f632010aa9eb6a62799b6da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-21 14:13:24</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Consumer - StoreKIT" name="csm_consumer" related_list="NULL" sys_domain="global" view="91bd2d532f632010aa9eb6a62799b6cc">cee9f99f2f632010aa9eb6a62799b6d7</list_id>
+            <order_by/>
+            <position>7</position>
+            <related_list>REL:f0810f16d73022004f1e82285e61030f</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-21 14:13:24</sys_created_on>
+            <sys_id>8ee9f99f2f632010aa9eb6a62799b6da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-21 14:13:24</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Consumer - StoreKIT" name="csm_consumer" related_list="NULL" sys_domain="global" view="91bd2d532f632010aa9eb6a62799b6cc">cee9f99f2f632010aa9eb6a62799b6d7</list_id>
+            <order_by/>
+            <position>8</position>
+            <related_list>csm_order.consumer</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-21 14:13:24</sys_created_on>
+            <sys_id>82e9f99f2f632010aa9eb6a62799b6db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-21 14:13:24</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Consumer - StoreKIT" name="csm_consumer" related_list="NULL" sys_domain="global" view="91bd2d532f632010aa9eb6a62799b6cc">cee9f99f2f632010aa9eb6a62799b6d7</list_id>
+            <order_by/>
+            <position>9</position>
+            <related_list>csm_order_case.consumer</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-21 14:13:24</sys_created_on>
+            <sys_id>86e9f99f2f632010aa9eb6a62799b6db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-21 14:13:24</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Consumer - StoreKIT" name="csm_consumer" related_list="NULL" sys_domain="global" view="91bd2d532f632010aa9eb6a62799b6cc">cee9f99f2f632010aa9eb6a62799b6d7</list_id>
+            <order_by/>
+            <position>10</position>
+            <related_list>REL:26ec61532f632010aa9eb6a62799b6db</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-21 14:13:24</sys_created_on>
+            <sys_id>8ae9f99f2f632010aa9eb6a62799b6db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-21 14:13:24</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Consumer - StoreKIT" name="csm_consumer" related_list="NULL" sys_domain="global" view="91bd2d532f632010aa9eb6a62799b6cc">cee9f99f2f632010aa9eb6a62799b6d7</list_id>
+            <order_by/>
+            <position>11</position>
+            <related_list>REL:58f5b59b2f632010aa9eb6a62799b6b0</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-21 14:13:24</sys_created_on>
+            <sys_id>8ee9f99f2f632010aa9eb6a62799b6db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-21 14:13:24</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Consumer - StoreKIT</calculated_name>
+            <filter/>
+            <name>csm_consumer</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-21 14:13:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cee9f99f2f632010aa9eb6a62799b6d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Consumer - StoreKIT</sys_name>
+            <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+            <sys_update_name>sys_ui_related_csm_consumer_storekit</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-21 14:13:24</sys_updated_on>
+            <sys_user/>
+            <view display_value="StoreKIT" name="storekit">91bd2d532f632010aa9eb6a62799b6cc</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

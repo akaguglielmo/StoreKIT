@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Clients">c86ac7d12fa32010aa9eb6a62799b6c5</applet_launcher>
+        <icon display_value="Group">143d8da2b72200108223e126de11a927</icon>
+        <label>Clients</label>
+        <roles/>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-15 15:00:09</sys_created_on>
+        <sys_id>8bfacb152fa32010aa9eb6a62799b6e3</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Clients</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_8bfacb152fa32010aa9eb6a62799b6e3</sys_update_name>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2021-04-16 17:26:55</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

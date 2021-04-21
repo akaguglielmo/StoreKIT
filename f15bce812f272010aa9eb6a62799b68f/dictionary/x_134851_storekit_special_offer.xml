@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Special Offer" max_length="40" name="x_134851_storekit_special_offer" type="collection">
+        <element label="Description" max_length="8000" name="description" type="html"/>
+        <element label="Fidelity Card" max_length="32" name="fidelity_card" reference="x_134851_storekit_fidelity_card" type="reference"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Short Description" max_length="40" name="short_description" type="string"/>
+        <index name="index">
+            <element name="fidelity_card"/>
+        </index>
+    </element>
+</database>

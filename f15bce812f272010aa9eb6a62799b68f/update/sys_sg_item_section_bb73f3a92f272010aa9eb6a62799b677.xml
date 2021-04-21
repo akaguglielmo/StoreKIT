@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_section">
+    <sys_sg_item_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <data_item/>
+        <destination_screen display_value="News">10c2b7652f272010aa9eb6a62799b65f</destination_screen>
+        <display_title>true</display_title>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <hide_see_all_button>false</hide_see_all_button>
+        <max_items_display_count>15</max_items_display_count>
+        <orientation>vertical</orientation>
+        <required_roles/>
+        <sys_class_name>sys_sg_item_section</sys_class_name>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2021-04-16 12:35:16</sys_created_on>
+        <sys_id>bb73f3a92f272010aa9eb6a62799b677</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>News</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_item_section_bb73f3a92f272010aa9eb6a62799b677</sys_update_name>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2021-04-16 12:35:16</sys_updated_on>
+        <table/>
+        <title>News</title>
+        <visible_condition/>
+    </sys_sg_item_section>
+</record_update>

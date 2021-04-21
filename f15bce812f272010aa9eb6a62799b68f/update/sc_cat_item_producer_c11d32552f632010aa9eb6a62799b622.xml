@@ -44,7 +44,7 @@
         <omit_price>false</omit_price>
         <order>0</order>
         <ordered_item_link/>
-        <owner display_value="Massimiliano Dreon">93528a092f232010aa9eb6a62799b620</owner>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
         <picture/>
         <post_insert_script/>
         <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=c11d32552f632010aa9eb6a62799b622&amp;sysparm_preview=true", "summary");</preview>
@@ -60,7 +60,25 @@
         <sc_ic_item_staging/>
         <sc_ic_version/>
         <sc_template/>
-        <script/>
+        <script><![CDATA[current.channel = "store";
+current.consumer = producer.consumer;
+current.short_description = "Appointment for " + producer.consumer.getDisplayValue() + " @ " + producer.location.getDisplayValue();
+current.description = producer.notes;
+
+var obj = JSON.parse(producer.sn_appointment);
+var start = obj.selectedWindow.actualStartUTC;
+var end = obj.selectedWindow.actualEndUTC;
+
+var gr = new GlideRecord("sn_apptmnt_booking_appointment_booking");
+gr.initialize();
+gr.setValue("start", start);
+gr.setValue("end", end);
+gr.setValue("from_user", producer.consumer);
+gr.setValue("location", producer.location);
+gr.setValue("type", "appointment");
+gr.setValue("catalog_item", "c11d32552f632010aa9eb6a62799b622");
+gr.setValue("task", current.getUniqueValue());
+gr.insert();]]></script>
         <short_description/>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
@@ -69,15 +87,15 @@
         <sys_created_by>max</sys_created_by>
         <sys_created_on>2021-04-15 14:16:01</sys_created_on>
         <sys_id>c11d32552f632010aa9eb6a62799b622</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>19</sys_mod_count>
         <sys_name>Schedule an appointment</sys_name>
         <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
         <sys_policy/>
         <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
         <sys_update_name>sc_cat_item_producer_c11d32552f632010aa9eb6a62799b622</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2021-04-15 14:21:39</sys_updated_on>
-        <table_name>sn_customerservice_appointment</table_name>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2021-04-16 12:46:28</sys_updated_on>
+        <table_name>sn_customerservice_case</table_name>
         <template/>
         <template_manager_roles/>
         <type>item</type>

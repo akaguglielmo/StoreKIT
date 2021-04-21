@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Fidelity Card" max_length="40" name="x_134851_storekit_fidelity_card" sizeclass="0" type="collection">
+        <element label="Card Number" max_length="40" name="card_number" type="string"/>
+        <element label="Consumer" max_length="32" name="consumer" reference="csm_consumer" type="reference"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Points" max_length="40" name="points" type="integer"/>
+        <index name="index">
+            <element name="consumer"/>
+        </index>
+    </element>
+</database>

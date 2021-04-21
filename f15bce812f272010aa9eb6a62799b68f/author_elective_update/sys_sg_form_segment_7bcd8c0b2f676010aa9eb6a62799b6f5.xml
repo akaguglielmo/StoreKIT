@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
+    <sys_sg_form_segment action="DELETE">
+        <embedded_screen display_value="Related List">f7cdc80b2f676010aa9eb6a62799b6e2</embedded_screen>
+        <form display_value="Client L&amp;F Form">856dc40b2f676010aa9eb6a62799b678</form>
+        <header_view_config/>
+        <is_sticky>false</is_sticky>
+        <order>30</order>
+        <sys_class_name>sys_sg_form_segment</sys_class_name>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2021-04-20 11:42:37</sys_created_on>
+        <sys_id>7bcd8c0b2f676010aa9eb6a62799b6f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_form_segment_7bcd8c0b2f676010aa9eb6a62799b6f5</sys_update_name>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2021-04-20 11:42:37</sys_updated_on>
+    </sys_sg_form_segment>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</application>
+        <file_path/>
+        <instance_id>c6669e5adb74d4907527d7c8f4961942</instance_id>
+        <instance_name>dev104046</instance_name>
+        <name>sys_sg_form_segment_7bcd8c0b2f676010aa9eb6a62799b6f5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment"><sys_sg_form_segment action="INSERT_OR_UPDATE"><embedded_screen display_value="Related List">f7cdc80b2f676010aa9eb6a62799b6e2</embedded_screen><form display_value="Client L&amp;F Form">856dc40b2f676010aa9eb6a62799b678</form><header_view_config/><is_sticky>false</is_sticky><order>30</order><sys_class_name>sys_sg_form_segment</sys_class_name><sys_created_by>max</sys_created_by><sys_created_on>2021-04-20 11:42:37</sys_created_on><sys_id>7bcd8c0b2f676010aa9eb6a62799b6f5</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package><sys_policy/><sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope><sys_update_name>sys_sg_form_segment_7bcd8c0b2f676010aa9eb6a62799b6f5</sys_update_name><sys_updated_by>max</sys_updated_by><sys_updated_on>2021-04-20 11:42:37</sys_updated_on></sys_sg_form_segment></record_update>]]></payload>
+        <payload_hash>1771124899</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>734c8a8d2fe32010aa9eb6a62799b6c0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2021-04-20 11:42:37</sys_created_on>
+        <sys_id>b7cd8c0b2f676010aa9eb6a62799b6f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178ef16e1c80000001</sys_recorded_at>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2021-04-20 11:42:37</sys_updated_on>
+        <type>Form Screen Segment</type>
+        <update_guid>ffcd8c0bcd67601028f5da28e2f944f6</update_guid>
+        <update_guid_history>ffcd8c0bcd67601028f5da28e2f944f6:1771124899</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2021-04-20 11:43:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_form_segment">sys_sg_form_segment</sys_db_object>
+        <sys_id>89f4c58f03fb430c88ae3c6e70877541</sys_id>
+        <sys_metadata>7bcd8c0b2f676010aa9eb6a62799b6f5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_scope_delete display_value="">0d898bf3e6634644a1482afa16c3d490</sys_scope_delete>
+        <sys_update_name>sys_sg_form_segment_7bcd8c0b2f676010aa9eb6a62799b6f5</sys_update_name>
+        <sys_update_version display_value="sys_sg_form_segment_7bcd8c0b2f676010aa9eb6a62799b6f5">b7cd8c0b2f676010aa9eb6a62799b6f7</sys_update_version>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2021-04-20 11:43:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_segment">
+    <sys_sg_item_stream_segment action="INSERT_OR_UPDATE">
+        <empty_state/>
+        <interleave_order_direction>asc</interleave_order_direction>
+        <name>Appointment Stream Calendar</name>
+        <order/>
+        <screen display_value="Appointments">354b8bed2f632010aa9eb6a62799b653</screen>
+        <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2021-04-16 09:50:31</sys_created_on>
+        <sys_id>e7ad03a12fa32010aa9eb6a62799b642</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Appointment Stream Calendar</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_item_stream_segment_e7ad03a12fa32010aa9eb6a62799b642</sys_update_name>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2021-04-16 09:54:06</sys_updated_on>
+    </sys_sg_item_stream_segment>
+</record_update>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="DELETE">
+        <available_offline>false</available_offline>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>on_demand</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="Client Appointments List Screen Icon">ea6c44c72f676010aa9eb6a62799b6ad</icon>
+        <name>Client Cases</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2021-04-20 11:36:30</sys_created_on>
+        <sys_id>566c04c72f676010aa9eb6a62799b640</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Client Cases</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_list_screen_566c04c72f676010aa9eb6a62799b640</sys_update_name>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2021-04-20 12:00:24</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="DELETE" query="documentkey=566c04c72f676010aa9eb6a62799b640"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</application>
+        <file_path/>
+        <instance_id>c6669e5adb74d4907527d7c8f4961942</instance_id>
+        <instance_name>dev104046</instance_name>
+        <name>sys_sg_list_screen_566c04c72f676010aa9eb6a62799b640</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen"><sys_sg_list_screen action="INSERT_OR_UPDATE"><available_offline>false</available_offline><description/><dynamic_prefetch_count/><empty_state/><fetch_type>on_demand</fetch_type><filter/><hide_filters>false</hide_filters><hide_screen_name>false</hide_screen_name><icon display_value="Client Appointments List Screen Icon">ea6c44c72f676010aa9eb6a62799b6ad</icon><name>Client Cases</name><roles_override/><sys_class_name>sys_sg_list_screen</sys_class_name><sys_created_by>max</sys_created_by><sys_created_on>2021-04-20 11:36:30</sys_created_on><sys_id>566c04c72f676010aa9eb6a62799b640</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Client Cases</sys_name><sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package><sys_policy/><sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope><sys_update_name>sys_sg_list_screen_566c04c72f676010aa9eb6a62799b640</sys_update_name><sys_updated_by>max</sys_updated_by><sys_updated_on>2021-04-20 12:00:24</sys_updated_on></sys_sg_list_screen><sys_translated_text action="delete_multiple" query="documentkey=566c04c72f676010aa9eb6a62799b640"/></record_update>]]></payload>
+        <payload_hash>1792676817</payload_hash>
+        <record_name>Client Cases</record_name>
+        <reverted_from/>
+        <source>734c8a8d2fe32010aa9eb6a62799b6c0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2021-04-20 12:00:24</sys_created_on>
+        <sys_id>d0e1544f2f676010aa9eb6a62799b680</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178ef2729660000001</sys_recorded_at>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2021-04-20 12:00:24</sys_updated_on>
+        <type>List screen</type>
+        <update_guid>1ce1544f4f6760100227e5511dd22b7f</update_guid>
+        <update_guid_history>1ce1544f4f6760100227e5511dd22b7f:1792676817,aa6c44c71c6760109eaca1d56d59a8b2:-1486993951,da6c04c7866760108bb06d8b1e085a42:-1399763971</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2021-04-20 12:04:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_list_screen">sys_sg_list_screen</sys_db_object>
+        <sys_id>cc28b36d16714a95a3978c1327705dc9</sys_id>
+        <sys_metadata>566c04c72f676010aa9eb6a62799b640</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Client Cases</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_scope_delete display_value="">0d898bf3e6634644a1482afa16c3d490</sys_scope_delete>
+        <sys_update_name>sys_sg_list_screen_566c04c72f676010aa9eb6a62799b640</sys_update_name>
+        <sys_update_version display_value="sys_sg_list_screen_566c04c72f676010aa9eb6a62799b640">d0e1544f2f676010aa9eb6a62799b680</sys_update_version>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2021-04-20 12:04:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

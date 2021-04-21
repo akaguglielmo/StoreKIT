@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_134851_storekit_events</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Events Form">84df28b12f2b2010aa9eb6a62799b6ef</embedded_screen>
+        <item_view/>
+        <name>Events Main Item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2021-04-16 12:11:18</sys_created_on>
+        <sys_id>090eafa12f272010aa9eb6a62799b6ee</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Events Main Item</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_master_item_090eafa12f272010aa9eb6a62799b6ee</sys_update_name>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2021-04-16 16:58:47</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Events View Config">c90eafa12f272010aa9eb6a62799b6eb</view_config>
+    </sys_sg_master_item>
+</record_update>

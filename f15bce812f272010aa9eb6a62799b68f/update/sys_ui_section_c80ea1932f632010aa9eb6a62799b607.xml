@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="c80ea1932f632010aa9eb6a62799b607" sys_domain="global" table="csm_consumer" version="3" view="storekit">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-21 13:21:30</sys_created_on>
+            <sys_id>860ea5932f632010aa9eb6a62799b631</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="csm_consumer" sys_domain="global" view="91bd2d532f632010aa9eb6a62799b6cc">c80ea1932f632010aa9eb6a62799b607</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-21 13:21:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-21 13:21:30</sys_created_on>
+            <sys_id>0a0ea5932f632010aa9eb6a62799b631</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="csm_consumer" sys_domain="global" view="91bd2d532f632010aa9eb6a62799b6cc">c80ea1932f632010aa9eb6a62799b607</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-21 13:21:30</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>prefix</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-21 13:21:30</sys_created_on>
+            <sys_id>8a0ea5932f632010aa9eb6a62799b631</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="csm_consumer" sys_domain="global" view="91bd2d532f632010aa9eb6a62799b6cc">c80ea1932f632010aa9eb6a62799b607</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-21 13:21:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>first_name</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-21 13:21:30</sys_created_on>
+            <sys_id>0e0ea5932f632010aa9eb6a62799b631</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="csm_consumer" sys_domain="global" view="91bd2d532f632010aa9eb6a62799b6cc">c80ea1932f632010aa9eb6a62799b607</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-21 13:21:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>middle_name</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-21 13:21:30</sys_created_on>
+            <sys_id>8e0ea5932f632010aa9eb6a62799b631</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="csm_consumer" sys_domain="global" view="91bd2d532f632010aa9eb6a62799b6cc">c80ea1932f632010aa9eb6a62799b607</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-21 13:21:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>last_name</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-21 13:21:30</sys_created_on>
+            <sys_id>020ea5932f632010aa9eb6a62799b632</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="csm_consumer" sys_domain="global" view="91bd2d532f632010aa9eb6a62799b6cc">c80ea1932f632010aa9eb6a62799b607</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-21 13:21:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>suffix</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-21 13:21:30</sys_created_on>
+            <sys_id>820ea5932f632010aa9eb6a62799b632</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="csm_consumer" sys_domain="global" view="91bd2d532f632010aa9eb6a62799b6cc">c80ea1932f632010aa9eb6a62799b607</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-21 13:21:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mobile_phone</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-21 13:21:30</sys_created_on>
+            <sys_id>060ea5932f632010aa9eb6a62799b632</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="csm_consumer" sys_domain="global" view="91bd2d532f632010aa9eb6a62799b6cc">c80ea1932f632010aa9eb6a62799b607</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-21 13:21:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>business_phone</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-21 13:21:30</sys_created_on>
+            <sys_id>860ea5932f632010aa9eb6a62799b632</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="csm_consumer" sys_domain="global" view="91bd2d532f632010aa9eb6a62799b6cc">c80ea1932f632010aa9eb6a62799b607</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-21 13:21:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>home_phone</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-21 13:21:30</sys_created_on>
+            <sys_id>0a0ea5932f632010aa9eb6a62799b632</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="csm_consumer" sys_domain="global" view="91bd2d532f632010aa9eb6a62799b6cc">c80ea1932f632010aa9eb6a62799b607</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-21 13:21:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fax</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-21 13:21:30</sys_created_on>
+            <sys_id>8a0ea5932f632010aa9eb6a62799b632</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="csm_consumer" sys_domain="global" view="91bd2d532f632010aa9eb6a62799b6cc">c80ea1932f632010aa9eb6a62799b607</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-21 13:21:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-21 13:21:30</sys_created_on>
+            <sys_id>0e0ea5932f632010aa9eb6a62799b632</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="csm_consumer" sys_domain="global" view="91bd2d532f632010aa9eb6a62799b6cc">c80ea1932f632010aa9eb6a62799b607</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-21 13:21:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-21 13:21:30</sys_created_on>
+            <sys_id>8e0ea5932f632010aa9eb6a62799b632</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="csm_consumer" sys_domain="global" view="91bd2d532f632010aa9eb6a62799b6cc">c80ea1932f632010aa9eb6a62799b607</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-21 13:21:30</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-21 13:21:30</sys_created_on>
+            <sys_id>020ea5932f632010aa9eb6a62799b633</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="csm_consumer" sys_domain="global" view="91bd2d532f632010aa9eb6a62799b6cc">c80ea1932f632010aa9eb6a62799b607</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-21 13:21:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-21 13:21:30</sys_created_on>
+            <sys_id>820ea5932f632010aa9eb6a62799b633</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="csm_consumer" sys_domain="global" view="91bd2d532f632010aa9eb6a62799b6cc">c80ea1932f632010aa9eb6a62799b607</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-21 13:21:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>gender</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-21 13:21:30</sys_created_on>
+            <sys_id>060ea5932f632010aa9eb6a62799b633</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="csm_consumer" sys_domain="global" view="91bd2d532f632010aa9eb6a62799b6cc">c80ea1932f632010aa9eb6a62799b607</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-21 13:21:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>photo</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-21 13:21:30</sys_created_on>
+            <sys_id>860ea5932f632010aa9eb6a62799b633</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="csm_consumer" sys_domain="global" view="91bd2d532f632010aa9eb6a62799b6cc">c80ea1932f632010aa9eb6a62799b607</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-21 13:21:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>csm_consumer</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-21 13:21:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c80ea1932f632010aa9eb6a62799b607</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>csm_consumer</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+            <sys_update_name>sys_ui_section_c80ea1932f632010aa9eb6a62799b607</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-21 13:21:22</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="StoreKIT" name="storekit">91bd2d532f632010aa9eb6a62799b6cc</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

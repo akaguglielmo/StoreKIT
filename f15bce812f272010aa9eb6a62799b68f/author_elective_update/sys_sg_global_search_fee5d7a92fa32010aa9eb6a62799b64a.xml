@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_global_search">
+    <sys_sg_global_search action="DELETE">
+        <default_empty_state/>
+        <filtered_empty_state/>
+        <interleave>true</interleave>
+        <name>Search customer</name>
+        <placeholder>Search customer</placeholder>
+        <search_context_config display_value="StoreKIT Customer Search">0396d3e92fa32010aa9eb6a62799b610</search_context_config>
+        <sys_class_name>sys_sg_global_search</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-16 10:28:06</sys_created_on>
+        <sys_id>fee5d7a92fa32010aa9eb6a62799b64a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Search customer</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_global_search_fee5d7a92fa32010aa9eb6a62799b64a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-16 10:30:24</sys_updated_on>
+        <vision_api_enabled>false</vision_api_enabled>
+    </sys_sg_global_search>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</application>
+        <file_path/>
+        <instance_id>c6669e5adb74d4907527d7c8f4961942</instance_id>
+        <instance_name>dev104046</instance_name>
+        <name>sys_sg_global_search_fee5d7a92fa32010aa9eb6a62799b64a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_global_search"><sys_sg_global_search action="INSERT_OR_UPDATE"><default_empty_state/><filtered_empty_state/><interleave>true</interleave><name>Search customer</name><placeholder>Search customer</placeholder><search_context_config display_value="StoreKIT Customer Search">0396d3e92fa32010aa9eb6a62799b610</search_context_config><sys_class_name>sys_sg_global_search</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-16 10:28:06</sys_created_on><sys_id>fee5d7a92fa32010aa9eb6a62799b64a</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Search customer</sys_name><sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package><sys_policy/><sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope><sys_update_name>sys_sg_global_search_fee5d7a92fa32010aa9eb6a62799b64a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-04-16 10:30:24</sys_updated_on><vision_api_enabled>false</vision_api_enabled></sys_sg_global_search></record_update>]]></payload>
+        <payload_hash>-2035366944</payload_hash>
+        <record_name>Search customer</record_name>
+        <reverted_from/>
+        <source>734c8a8d2fe32010aa9eb6a62799b6c0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-16 10:30:24</sys_created_on>
+        <sys_id>83e69be92fa32010aa9eb6a62799b6a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178da3b55ba0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-16 10:30:24</sys_updated_on>
+        <type>Global Search Configuration</type>
+        <update_guid>cbe69be97aa320102ba7f804e8f546a7</update_guid>
+        <update_guid_history>cbe69be97aa320102ba7f804e8f546a7:-2035366944,c5e69be947a3201007367cd5b735c973:-962066609,c96697a945a320109bbb8522e70d4f59:1804123808</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-16 11:05:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_global_search">sys_sg_global_search</sys_db_object>
+        <sys_id>1b26e487622e4010b67fab3a2d401900</sys_id>
+        <sys_metadata>fee5d7a92fa32010aa9eb6a62799b64a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Search customer</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_scope_delete display_value="">0d898bf3e6634644a1482afa16c3d490</sys_scope_delete>
+        <sys_update_name>sys_sg_global_search_fee5d7a92fa32010aa9eb6a62799b64a</sys_update_name>
+        <sys_update_version display_value="sys_sg_global_search_fee5d7a92fa32010aa9eb6a62799b64a">83e69be92fa32010aa9eb6a62799b6a8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-16 11:05:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

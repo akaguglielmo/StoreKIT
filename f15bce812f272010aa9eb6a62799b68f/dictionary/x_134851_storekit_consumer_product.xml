@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sn_install_base_sold_product" label="Consumer Product" max_length="40" name="x_134851_storekit_consumer_product" sizeclass="7" type="collection">
+        <element label="Date" max_length="40" name="date" type="glide_date"/>
+        <element label="Location" max_length="32" name="location" reference="cmn_location" type="reference"/>
+        <element label="Price" max_length="20" name="price" type="currency"/>
+        <element label="Quantity" max_length="40" name="quantity" type="integer"/>
+        <element choice="1" label="Source" max_length="40" name="source" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Ecommerce" sequence="10" value="ecommerce"/>
+                <element inactive_on_update="false" label="Store" sequence="20" value="store"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="location"/>
+        </index>
+    </element>
+</database>

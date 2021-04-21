@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Shape":"Circle","FontName":"now-mobile-icons","Value":"f2bb","Name":"icon-Bag","FontColor":"#293E40","BackgroundColor":"#293E40"}</icon>
+        <name>Last Products List Screen Icon</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2021-04-16 17:12:07</sys_created_on>
+        <sys_id>d7d2fc752f2b2010aa9eb6a62799b66b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Last Products List Screen Icon</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_icon_d7d2fc752f2b2010aa9eb6a62799b66b</sys_update_name>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2021-04-16 17:12:07</sys_updated_on>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>DI_Products</name>
+        <query_condition table="x_134851_storekit_consumer_product">^ORDERBYDESCdate<item endquery="false" field="" goto="false" newquery="false" operator="ORDERBYDESC" or="false" value="date"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2021-04-16 09:59:01</sys_created_on>
+        <sys_id>0fbf03252fa32010aa9eb6a62799b60b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>DI_Products</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_data_item_0fbf03252fa32010aa9eb6a62799b60b</sys_update_name>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2021-04-16 17:16:27</sys_updated_on>
+        <table>x_134851_storekit_consumer_product</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=0fbf03252fa32010aa9eb6a62799b60b"/>
+</record_update>
