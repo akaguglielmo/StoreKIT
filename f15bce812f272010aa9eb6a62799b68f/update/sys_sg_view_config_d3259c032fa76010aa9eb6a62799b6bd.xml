@@ -7,15 +7,15 @@
         <sys_created_by>max</sys_created_by>
         <sys_created_on>2021-04-20 12:14:49</sys_created_on>
         <sys_id>d3259c032fa76010aa9eb6a62799b6bd</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Client Products Form View Config</sys_name>
         <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
         <sys_policy/>
         <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
         <sys_update_name>sys_sg_view_config_d3259c032fa76010aa9eb6a62799b6bd</sys_update_name>
         <sys_updated_by>max</sys_updated_by>
-        <sys_updated_on>2021-04-20 12:19:21</sys_updated_on>
+        <sys_updated_on>2021-04-23 10:17:28</sys_updated_on>
         <table>x_134851_storekit_consumer_product</table>
-        <template display_value="Time Off Template">37016f4b6113201011d51d09679a4dd6</template>
+        <template display_value="SK_Product list items">56c41b332f632010aa9eb6a62799b675</template>
     </sys_sg_view_config>
 </record_update>

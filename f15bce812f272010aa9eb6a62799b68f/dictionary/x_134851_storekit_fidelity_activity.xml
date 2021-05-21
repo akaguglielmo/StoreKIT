@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Fidelity Activity" max_length="40" name="x_134851_storekit_fidelity_activity" type="collection">
+        <element label="Date" max_length="40" name="date" type="glide_date_time"/>
+        <element label="Description" max_length="100" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Fidelity Card" max_length="32" name="fidelity_card" reference="x_134851_storekit_fidelity_card" type="reference"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Points" max_length="40" name="points" type="integer"/>
+        <index name="index">
+            <element name="fidelity_card"/>
+        </index>
+    </element>
+</database>

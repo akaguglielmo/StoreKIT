@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_template">
+    <sys_sg_view_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>shopping card</description>
+        <name>SK_Shopping Card</name>
+        <preview_image/>
+        <root_view_attrs_json/>
+        <sys_class_name>sys_sg_view_template</sys_class_name>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2021-04-21 16:49:11</sys_created_on>
+        <sys_id>089d9e172f272010aa9eb6a62799b627</sys_id>
+        <sys_mod_count>26</sys_mod_count>
+        <sys_name>SK_Shopping Card</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_view_template_089d9e172f272010aa9eb6a62799b627</sys_update_name>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2021-04-21 17:11:57</sys_updated_on>
+        <template_json>{"Type":"ViewGroup","Margin":{"Top":8,"Bottom":8},"Orientation":"Vertical","Alignment":"Stretch","Distribution":"Equal","Id":"Root","Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Margin":{"Right":0,"Left":0},"Id":"viewgroup_01","Children":[{"Type":"Image","Scaling":"fit","Margin":{"Right":10},"Height":24,"Width":24,"CellId":"image_02","Id":"image_02","CornerRadius":4},{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"bold","Size":13},"MaxLines":2,"Margin":{},"CellId":"text_03","Id":"text_03","TextAlignment":"Left"},{"Type":"ViewGroup","Orientation":"Vertical","Alignment":"Right","Distribution":"Equal","Id":"viewgroup_03","Margin":{"Left":10},"Children":[{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"regular","Size":13},"MaxLines":1,"TextAlignment":"Right","CellId":"text_04","Id":"text_04","Margin":{}},{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"regular","Size":13},"MaxLines":1,"TextAlignment":"Right","CellId":"text_05","Id":"text_05"}]}]}]}</template_json>
+    </sys_sg_view_template>
+</record_update>

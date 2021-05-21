@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
     <sys_sg_form_segment action="INSERT_OR_UPDATE">
         <embedded_screen display_value="Details">e725dc032fa76010aa9eb6a62799b69b</embedded_screen>
-        <form display_value="Client Products Form">2325dc032fa76010aa9eb6a62799b694</form>
+        <form display_value="Products Form">2325dc032fa76010aa9eb6a62799b694</form>
         <header_view_config/>
         <is_sticky>false</is_sticky>
         <order>10</order>

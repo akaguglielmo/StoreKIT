@@ -7,15 +7,15 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-21 14:00:27</sys_created_on>
         <sys_id>18f639db2f632010aa9eb6a62799b65b</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Client Special Offers Form View Config</sys_name>
         <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
         <sys_policy/>
         <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
         <sys_update_name>sys_sg_view_config_18f639db2f632010aa9eb6a62799b65b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-04-21 14:00:27</sys_updated_on>
-        <table>csm_order_line_item</table>
+        <sys_updated_on>2021-04-21 17:20:32</sys_updated_on>
+        <table>x_134851_storekit_special_offer</table>
         <template display_value="Applet 01">6bb0be5c41a71010f877183fc9b8be0c</template>
     </sys_sg_view_config>
 </record_update>

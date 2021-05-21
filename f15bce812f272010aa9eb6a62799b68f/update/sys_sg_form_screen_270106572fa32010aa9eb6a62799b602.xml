@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
     <sys_sg_form_screen action="INSERT_OR_UPDATE">
         <available_offline>false</available_offline>
-        <data_item display_value="Fidelity Card">70c08ed32fa32010aa9eb6a62799b689</data_item>
+        <data_item display_value="DI_Fidelity Card">70c08ed32fa32010aa9eb6a62799b689</data_item>
         <description/>
         <dynamic_prefetch_count/>
         <empty_state/>
@@ -9,7 +9,7 @@
         <filter/>
         <hide_filters>false</hide_filters>
         <hide_screen_name>false</hide_screen_name>
-        <icon display_value="Search Fidelity Icon">5301c2572fa32010aa9eb6a62799b6ff</icon>
+        <icon display_value="icon-Address-Card">5301c2572fa32010aa9eb6a62799b6ff</icon>
         <item_view/>
         <name>Search Fidelity</name>
         <override_context_with_data_item>false</override_context_with_data_item>

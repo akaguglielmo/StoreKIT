@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_related_list_map">
+    <sys_sg_related_list_map action="INSERT_OR_UPDATE">
+        <context_field/>
+        <destination_screen display_value="Fidelity Activities">21ad13ed2f3f6010aa9eb6a62799b6a8</destination_screen>
+        <related_list_screen display_value="Related List">20fa57e92f3f6010aa9eb6a62799b64b</related_list_screen>
+        <relationship>x_134851_storekit_fidelity_activity.fidelity_card</relationship>
+        <sys_class_name>sys_sg_related_list_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-28 21:17:05</sys_created_on>
+        <sys_id>780e5bed2f3f6010aa9eb6a62799b6ac</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>21ad13ed2f3f6010aa9eb6a62799b6a8</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_related_list_map_780e5bed2f3f6010aa9eb6a62799b6ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-28 21:41:30</sys_updated_on>
+    </sys_sg_related_list_map>
+</record_update>

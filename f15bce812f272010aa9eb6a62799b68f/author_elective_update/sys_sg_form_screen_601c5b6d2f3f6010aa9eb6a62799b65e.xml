@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="DELETE">
+        <available_offline>false</available_offline>
+        <data_item display_value="Fidelity Activity">00fb132d2f3f6010aa9eb6a62799b660</data_item>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="Fidelity Activities Icon">ac1c5b6d2f3f6010aa9eb6a62799b65a</icon>
+        <item_view/>
+        <name>Fidelity Activities</name>
+        <override_context_with_data_item>false</override_context_with_data_item>
+        <roles_override/>
+        <segments_height>medium</segments_height>
+        <segments_min_width>medium</segments_min_width>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-28 21:08:36</sys_created_on>
+        <sys_id>601c5b6d2f3f6010aa9eb6a62799b65e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Fidelity Activities</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_form_screen_601c5b6d2f3f6010aa9eb6a62799b65e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-28 21:08:36</sys_updated_on>
+        <table>x_134851_storekit_fidelity_activity</table>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Fidelity Activities View Config">241c176d2f3f6010aa9eb6a62799b6ec</view_config>
+    </sys_sg_form_screen>
+    <sys_translated_text action="DELETE" query="documentkey=601c5b6d2f3f6010aa9eb6a62799b65e"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</application>
+        <file_path/>
+        <instance_id>c6669e5adb74d4907527d7c8f4961942</instance_id>
+        <instance_name>dev104046</instance_name>
+        <name>sys_sg_form_screen_601c5b6d2f3f6010aa9eb6a62799b65e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen"><sys_sg_form_screen action="INSERT_OR_UPDATE"><available_offline>false</available_offline><data_item display_value="Fidelity Activity">00fb132d2f3f6010aa9eb6a62799b660</data_item><description/><dynamic_prefetch_count/><empty_state/><fetch_type>not_required</fetch_type><filter/><hide_filters>false</hide_filters><hide_screen_name>false</hide_screen_name><icon display_value="Fidelity Activities Icon">ac1c5b6d2f3f6010aa9eb6a62799b65a</icon><item_view/><name>Fidelity Activities</name><override_context_with_data_item>false</override_context_with_data_item><roles_override/><segments_height>medium</segments_height><segments_min_width>medium</segments_min_width><sys_class_name>sys_sg_form_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-28 21:08:36</sys_created_on><sys_id>601c5b6d2f3f6010aa9eb6a62799b65e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Fidelity Activities</sys_name><sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package><sys_policy/><sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope><sys_update_name>sys_sg_form_screen_601c5b6d2f3f6010aa9eb6a62799b65e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-04-28 21:08:36</sys_updated_on><table>x_134851_storekit_fidelity_activity</table><use_view_config>true</use_view_config><view_config display_value="Fidelity Activities View Config">241c176d2f3f6010aa9eb6a62799b6ec</view_config></sys_sg_form_screen><sys_translated_text action="delete_multiple" query="documentkey=601c5b6d2f3f6010aa9eb6a62799b65e"/></record_update>]]></payload>
+        <payload_hash>-1016864297</payload_hash>
+        <record_name>Fidelity Activities</record_name>
+        <reverted_from/>
+        <source>734c8a8d2fe32010aa9eb6a62799b6c0</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-28 21:08:36</sys_created_on>
+        <sys_id>e81c5b6d2f3f6010aa9eb6a62799b660</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1791a4fef580000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-28 21:08:36</sys_updated_on>
+        <type>Form Screen</type>
+        <update_guid>241c5b6d843f60105bb21d3d3a4aab60</update_guid>
+        <update_guid_history>241c5b6d843f60105bb21d3d3a4aab60:-1016864297</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-28 21:15:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_form_screen">sys_sg_form_screen</sys_db_object>
+        <sys_id>386b3de677b44f778dd0f77091a857a1</sys_id>
+        <sys_metadata>601c5b6d2f3f6010aa9eb6a62799b65e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Fidelity Activities</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_scope_delete display_value="">0d898bf3e6634644a1482afa16c3d490</sys_scope_delete>
+        <sys_update_name>sys_sg_form_screen_601c5b6d2f3f6010aa9eb6a62799b65e</sys_update_name>
+        <sys_update_version display_value="sys_sg_form_screen_601c5b6d2f3f6010aa9eb6a62799b65e">e81c5b6d2f3f6010aa9eb6a62799b660</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-28 21:15:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

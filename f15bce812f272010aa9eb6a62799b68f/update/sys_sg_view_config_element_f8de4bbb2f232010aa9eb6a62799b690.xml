@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>text_07_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2021-04-23 09:41:22</sys_created_on>
+        <sys_id>f8de4bbb2f232010aa9eb6a62799b690</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>text_07_element</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_f8de4bbb2f232010aa9eb6a62799b690</sys_update_name>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2021-04-23 09:41:22</sys_updated_on>
+        <view_config display_value="News View Config">dcc273a92f272010aa9eb6a62799b667</view_config>
+        <view_template_slot display_value="text_07">be4e8f7b2f232010aa9eb6a62799b64f</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

@@ -3,7 +3,7 @@
         <condition_order/>
         <datasource_table>x_134851_storekit_consumer_product</datasource_table>
         <datasource_table_condition/>
-        <embedded_screen display_value="Client Products Form">2325dc032fa76010aa9eb6a62799b694</embedded_screen>
+        <embedded_screen display_value="Products Form">2325dc032fa76010aa9eb6a62799b694</embedded_screen>
         <item_view/>
         <name>Products Main Item</name>
         <sys_class_name>sys_sg_master_item</sys_class_name>

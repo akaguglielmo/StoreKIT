@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_global_search_m2m_master_item">
+    <sys_sg_global_search_m2m_master_item action="INSERT_OR_UPDATE">
+        <global_search display_value="StoreKIT - Search Events &amp; News">7265608c2f772010aa9eb6a62799b6fa</global_search>
+        <master_item display_value="Events Main Item">090eafa12f272010aa9eb6a62799b6ee</master_item>
+        <sys_class_name>sys_sg_global_search_m2m_master_item</sys_class_name>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2021-04-23 16:01:23</sys_created_on>
+        <sys_id>31c56c4c2f772010aa9eb6a62799b649</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_global_search_m2m_master_item_31c56c4c2f772010aa9eb6a62799b649</sys_update_name>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2021-04-23 16:01:23</sys_updated_on>
+    </sys_sg_global_search_m2m_master_item>
+</record_update>

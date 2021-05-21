@@ -4,7 +4,7 @@
         <interleave_order_direction>asc</interleave_order_direction>
         <name>Item Stream Segment</name>
         <order>10</order>
-        <screen display_value="Client L&amp;F">cd6dc40b2f676010aa9eb6a62799b66a</screen>
+        <screen/>
         <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
         <sys_created_by>max</sys_created_by>
         <sys_created_on>2021-04-20 11:40:48</sys_created_on>

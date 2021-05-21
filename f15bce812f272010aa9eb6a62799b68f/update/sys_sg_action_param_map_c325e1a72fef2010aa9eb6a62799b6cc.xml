@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Add Product">868e51232fef2010aa9eb6a62799b689</button>
+        <item_parameter display_value="quantity">0e2e99ef2faf2010aa9eb6a62799b6bc</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2021-04-22 07:21:25</sys_created_on>
+        <sys_id>c325e1a72fef2010aa9eb6a62799b6cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0e2e99ef2faf2010aa9eb6a62799b6bc</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_c325e1a72fef2010aa9eb6a62799b6cc</sys_update_name>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2021-04-22 07:21:25</sys_updated_on>
+        <ui_parameter display_value="Quantity">0f4fddef2faf2010aa9eb6a62799b67b</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

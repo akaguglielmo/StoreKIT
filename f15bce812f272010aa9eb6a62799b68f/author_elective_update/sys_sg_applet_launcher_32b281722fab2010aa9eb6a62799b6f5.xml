@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="DELETE">
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <header_button/>
+        <header_titles/>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>TEST WILLIAM</name>
+        <required_roles/>
+        <search_config/>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-19 20:55:22</sys_created_on>
+        <sys_id>32b281722fab2010aa9eb6a62799b6f5</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>TEST WILLIAM</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_32b281722fab2010aa9eb6a62799b6f5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-19 20:59:22</sys_updated_on>
+        <title>TEST WILLIAM</title>
+    </sys_sg_applet_launcher>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</application>
+        <file_path/>
+        <instance_id>c6669e5adb74d4907527d7c8f4961942</instance_id>
+        <instance_name>dev104046</instance_name>
+        <name>sys_sg_applet_launcher_32b281722fab2010aa9eb6a62799b6f5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher"><sys_sg_applet_launcher action="INSERT_OR_UPDATE"><active>true</active><available_offline>false</available_offline><header_button/><header_titles/><hide_empty_sections>true</hide_empty_sections><name>TEST WILLIAM</name><required_roles/><search_config/><sys_class_name>sys_sg_applet_launcher</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-19 20:55:22</sys_created_on><sys_id>32b281722fab2010aa9eb6a62799b6f5</sys_id><sys_mod_count>4</sys_mod_count><sys_name>TEST WILLIAM</sys_name><sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package><sys_policy/><sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope><sys_update_name>sys_sg_applet_launcher_32b281722fab2010aa9eb6a62799b6f5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-04-19 20:59:22</sys_updated_on><title>TEST WILLIAM</title></sys_sg_applet_launcher></record_update>]]></payload>
+        <payload_hash>1686056519</payload_hash>
+        <record_name>TEST WILLIAM</record_name>
+        <reverted_from/>
+        <source>734c8a8d2fe32010aa9eb6a62799b6c0</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-19 20:59:22</sys_created_on>
+        <sys_id>d1a3c1f22fab2010aa9eb6a62799b6a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178ebee3c770000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-19 20:59:22</sys_updated_on>
+        <type>Applet Launcher</type>
+        <update_guid>1da3c1f2cdab2010322cc5bf855d8b9f</update_guid>
+        <update_guid_history>1da3c1f2cdab2010322cc5bf855d8b9f:1686056519,f783c1f2a4ab201010fe9f8b6154de40:4928285,bc0389b2a9ab201052484ab2e0ff0a27:921699387,4bb2817234ab20109fa9faaf66d7dbf7:1686056519</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2021-04-23 10:34:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher">sys_sg_applet_launcher</sys_db_object>
+        <sys_id>0a8052f2cc654e169969fe6c5ee806c4</sys_id>
+        <sys_metadata>32b281722fab2010aa9eb6a62799b6f5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TEST WILLIAM</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_scope_delete display_value="">0d898bf3e6634644a1482afa16c3d490</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_32b281722fab2010aa9eb6a62799b6f5</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_32b281722fab2010aa9eb6a62799b6f5">d1a3c1f22fab2010aa9eb6a62799b6a0</sys_update_version>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2021-04-23 10:34:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

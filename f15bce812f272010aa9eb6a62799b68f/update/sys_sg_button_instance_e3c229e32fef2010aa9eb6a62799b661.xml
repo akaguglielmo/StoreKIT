@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Add Product">868e51232fef2010aa9eb6a62799b689</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Add Product</label>
+        <location>top</location>
+        <name>Add Product</name>
+        <order>10</order>
+        <parent>c58c9ed32f272010aa9eb6a62799b632</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2021-04-22 07:10:57</sys_created_on>
+        <sys_id>e3c229e32fef2010aa9eb6a62799b661</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Add Product</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_button_instance_e3c229e32fef2010aa9eb6a62799b661</sys_update_name>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2021-04-22 07:10:57</sys_updated_on>
+        <table>csm_order</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=e3c229e32fef2010aa9eb6a62799b661"/>
+</record_update>

@@ -26,3 +26,4 @@ If you find yourself unable to import your repository due to the presence of fil
    Currently listed dependencies:
    * Task table schema
    * Customer Service Install Base Management
+   * Customer Service Management for Orders

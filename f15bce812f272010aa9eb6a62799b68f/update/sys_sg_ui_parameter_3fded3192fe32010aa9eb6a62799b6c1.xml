@@ -18,7 +18,7 @@
         <order>1</order>
         <parameter_type>screen</parameter_type>
         <placeholder/>
-        <screen display_value="Client Products">bdce97192fe32010aa9eb6a62799b6ab</screen>
+        <screen display_value="Products">bdce97192fe32010aa9eb6a62799b6ab</screen>
         <search_type>starts_with</search_type>
         <source_field/>
         <sys_class_name>sys_sg_ui_parameter</sys_class_name>

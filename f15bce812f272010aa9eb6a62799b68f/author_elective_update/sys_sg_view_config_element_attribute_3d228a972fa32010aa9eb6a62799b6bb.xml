@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element_attribute">
+    <sys_sg_view_config_element_attribute action="DELETE">
+        <description>default_text_slot_FieldValue</description>
+        <name display_value="FieldValue">c2eed5c2b7321010df65f6efce11a9cf</name>
+        <sys_class_name>sys_sg_view_config_element_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-21 14:49:25</sys_created_on>
+        <sys_id>3d228a972fa32010aa9eb6a62799b6bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c2eed5c2b7321010df65f6efce11a9cf</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_attribute_3d228a972fa32010aa9eb6a62799b6bb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-21 14:49:25</sys_updated_on>
+        <translated_value/>
+        <value>card_number</value>
+        <view_config_element display_value="default_text_slot_element">fd228a972fa32010aa9eb6a62799b6b8</view_config_element>
+    </sys_sg_view_config_element_attribute>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</application>
+        <file_path/>
+        <instance_id>c6669e5adb74d4907527d7c8f4961942</instance_id>
+        <instance_name>dev104046</instance_name>
+        <name>sys_sg_view_config_element_attribute_3d228a972fa32010aa9eb6a62799b6bb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element_attribute"><sys_sg_view_config_element_attribute action="INSERT_OR_UPDATE"><description>default_text_slot_FieldValue</description><name display_value="FieldValue">c2eed5c2b7321010df65f6efce11a9cf</name><sys_class_name>sys_sg_view_config_element_attribute</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-21 14:49:25</sys_created_on><sys_id>3d228a972fa32010aa9eb6a62799b6bb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>c2eed5c2b7321010df65f6efce11a9cf</sys_name><sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package><sys_policy/><sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope><sys_update_name>sys_sg_view_config_element_attribute_3d228a972fa32010aa9eb6a62799b6bb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-04-21 14:49:25</sys_updated_on><translated_value/><value>card_number</value><view_config_element display_value="default_text_slot_element">fd228a972fa32010aa9eb6a62799b6b8</view_config_element></sys_sg_view_config_element_attribute></record_update>]]></payload>
+        <payload_hash>1699906740</payload_hash>
+        <record_name>c2eed5c2b7321010df65f6efce11a9cf</record_name>
+        <reverted_from/>
+        <source>797a43152fa32010aa9eb6a62799b632</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-21 14:49:25</sys_created_on>
+        <sys_id>35228a972fa32010aa9eb6a62799b6be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178f4e844970000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-21 14:49:25</sys_updated_on>
+        <type>View Config Element Attribute</type>
+        <update_guid>7d228a97fda320101efa688368c8acbd</update_guid>
+        <update_guid_history>7d228a97fda320101efa688368c8acbd:1699906740</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-28 21:26:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_view_config_element_attribute">sys_sg_view_config_element_attribute</sys_db_object>
+        <sys_id>8920bc8257a54f08b90051b1cdca07e4</sys_id>
+        <sys_metadata>3d228a972fa32010aa9eb6a62799b6bb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c2eed5c2b7321010df65f6efce11a9cf</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_scope_delete display_value="">0d898bf3e6634644a1482afa16c3d490</sys_scope_delete>
+        <sys_update_name>sys_sg_view_config_element_attribute_3d228a972fa32010aa9eb6a62799b6bb</sys_update_name>
+        <sys_update_version display_value="sys_sg_view_config_element_attribute_3d228a972fa32010aa9eb6a62799b6bb">35228a972fa32010aa9eb6a62799b6be</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-28 21:26:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

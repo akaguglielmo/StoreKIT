@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="DELETE">
+        <name>Next Appointments View Config Element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2021-04-16 17:19:58</sys_created_on>
+        <sys_id>1ea4fcf52f2b2010aa9eb6a62799b6d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Next Appointments View Config Element</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_1ea4fcf52f2b2010aa9eb6a62799b6d8</sys_update_name>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2021-04-16 17:19:58</sys_updated_on>
+        <view_config display_value="Next Appointments View Config">1aa4fcf52f2b2010aa9eb6a62799b6bf</view_config>
+        <view_template_slot/>
+    </sys_sg_view_config_element>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</application>
+        <file_path/>
+        <instance_id>c6669e5adb74d4907527d7c8f4961942</instance_id>
+        <instance_name>dev104046</instance_name>
+        <name>sys_sg_view_config_element_1ea4fcf52f2b2010aa9eb6a62799b6d8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element"><sys_sg_view_config_element action="INSERT_OR_UPDATE"><name>Next Appointments View Config Element</name><sys_class_name>sys_sg_view_config_element</sys_class_name><sys_created_by>max</sys_created_by><sys_created_on>2021-04-16 17:19:58</sys_created_on><sys_id>1ea4fcf52f2b2010aa9eb6a62799b6d8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Next Appointments View Config Element</sys_name><sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package><sys_policy/><sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope><sys_update_name>sys_sg_view_config_element_1ea4fcf52f2b2010aa9eb6a62799b6d8</sys_update_name><sys_updated_by>max</sys_updated_by><sys_updated_on>2021-04-16 17:19:58</sys_updated_on><view_config display_value="Next Appointments View Config">1aa4fcf52f2b2010aa9eb6a62799b6bf</view_config><view_template_slot/></sys_sg_view_config_element></record_update>]]></payload>
+        <payload_hash>171616880</payload_hash>
+        <record_name>Next Appointments View Config Element</record_name>
+        <reverted_from/>
+        <source>797a43152fa32010aa9eb6a62799b632</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2021-04-16 17:19:58</sys_created_on>
+        <sys_id>1aa4fcf52f2b2010aa9eb6a62799b6da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178dbb24bae0000001</sys_recorded_at>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2021-04-16 17:19:58</sys_updated_on>
+        <type>View Config Element</type>
+        <update_guid>92a4fcf5ad2b2010822c7100cb5e3dda</update_guid>
+        <update_guid_history>92a4fcf5ad2b2010822c7100cb5e3dda:171616880</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2021-04-29 07:16:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_view_config_element">sys_sg_view_config_element</sys_db_object>
+        <sys_id>0e7fc809c2fa4bef8f3bd1844d19f449</sys_id>
+        <sys_metadata>1ea4fcf52f2b2010aa9eb6a62799b6d8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Next Appointments View Config Element</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_scope_delete display_value="">0d898bf3e6634644a1482afa16c3d490</sys_scope_delete>
+        <sys_update_name>sys_sg_view_config_element_1ea4fcf52f2b2010aa9eb6a62799b6d8</sys_update_name>
+        <sys_update_version display_value="sys_sg_view_config_element_1ea4fcf52f2b2010aa9eb6a62799b6d8">1aa4fcf52f2b2010aa9eb6a62799b6da</sys_update_version>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2021-04-29 07:16:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

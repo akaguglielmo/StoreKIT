@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <condition table="x_134851_storekit_events">from&gt;=javascript:gs.beginningOfToday()^EQ<item endquery="false" field="from" goto="false" newquery="false" operator="&gt;=" or="false" value="javascript:gs.beginningOfToday()"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <name>Events</name>
+        <source_table>x_134851_storekit_events</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2021-04-23 15:54:50</sys_created_on>
+        <sys_id>bc24e80c2f772010aa9eb6a62799b653</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Events</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_search_source_bc24e80c2f772010aa9eb6a62799b653</sys_update_name>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2021-04-23 15:54:50</sys_updated_on>
+    </sys_search_source>
+    <sys_translated_text action="delete_multiple" query="documentkey=bc24e80c2f772010aa9eb6a62799b653"/>
+</record_update>

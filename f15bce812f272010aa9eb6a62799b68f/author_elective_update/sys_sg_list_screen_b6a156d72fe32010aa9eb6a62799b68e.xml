@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="DELETE">
+        <available_offline>false</available_offline>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>on_demand</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Calendar">72a156d72fe32010aa9eb6a62799b68b</icon>
+        <name>Embed Appointments</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-21 15:57:13</sys_created_on>
+        <sys_id>b6a156d72fe32010aa9eb6a62799b68e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Embed Appointments</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_list_screen_b6a156d72fe32010aa9eb6a62799b68e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-21 16:06:57</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="DELETE" query="documentkey=b6a156d72fe32010aa9eb6a62799b68e"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</application>
+        <file_path/>
+        <instance_id>c6669e5adb74d4907527d7c8f4961942</instance_id>
+        <instance_name>dev104046</instance_name>
+        <name>sys_sg_list_screen_b6a156d72fe32010aa9eb6a62799b68e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen"><sys_sg_list_screen action="INSERT_OR_UPDATE"><available_offline>false</available_offline><description/><dynamic_prefetch_count/><empty_state/><fetch_type>on_demand</fetch_type><filter/><hide_filters>false</hide_filters><hide_screen_name>false</hide_screen_name><icon display_value="icon-Calendar">72a156d72fe32010aa9eb6a62799b68b</icon><name>Embed Appointments</name><roles_override/><sys_class_name>sys_sg_list_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-21 15:57:13</sys_created_on><sys_id>b6a156d72fe32010aa9eb6a62799b68e</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Embed Appointments</sys_name><sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package><sys_policy/><sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope><sys_update_name>sys_sg_list_screen_b6a156d72fe32010aa9eb6a62799b68e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-04-21 16:06:57</sys_updated_on></sys_sg_list_screen><sys_translated_text action="delete_multiple" query="documentkey=b6a156d72fe32010aa9eb6a62799b68e"/></record_update>]]></payload>
+        <payload_hash>1428660569</payload_hash>
+        <record_name>Embed Appointments</record_name>
+        <reverted_from/>
+        <source>734c8a8d2fe32010aa9eb6a62799b6c0</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-21 16:06:57</sys_created_on>
+        <sys_id>e9e3de5b2fe32010aa9eb6a62799b666</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178f52f3feb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-21 16:06:57</sys_updated_on>
+        <type>List screen</type>
+        <update_guid>25e3de5b53e3201011c36cf5e9e16a66</update_guid>
+        <update_guid_history>25e3de5b53e3201011c36cf5e9e16a66:1428660569,8113da1b7be32010bcc6a302e2c7b3a3:361329337,b6a156d74de32010796ea4f3d7108990:267907977</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-21 16:07:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_list_screen">sys_sg_list_screen</sys_db_object>
+        <sys_id>105d00d6f0e843a08479444bb22c2d90</sys_id>
+        <sys_metadata>b6a156d72fe32010aa9eb6a62799b68e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Embed Appointments</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_scope_delete display_value="">0d898bf3e6634644a1482afa16c3d490</sys_scope_delete>
+        <sys_update_name>sys_sg_list_screen_b6a156d72fe32010aa9eb6a62799b68e</sys_update_name>
+        <sys_update_version display_value="sys_sg_list_screen_b6a156d72fe32010aa9eb6a62799b68e">e9e3de5b2fe32010aa9eb6a62799b666</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-21 16:07:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

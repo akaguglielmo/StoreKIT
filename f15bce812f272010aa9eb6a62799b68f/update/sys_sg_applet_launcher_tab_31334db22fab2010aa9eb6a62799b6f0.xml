@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
     <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
         <active>true</active>
-        <applet_launcher display_value="TEST WILLIAM">32b281722fab2010aa9eb6a62799b6f5</applet_launcher>
+        <applet_launcher/>
         <icon display_value="icon-cart">5921d29587243300e0ef0cf888cb0bd0</icon>
         <label>Test</label>
         <roles/>

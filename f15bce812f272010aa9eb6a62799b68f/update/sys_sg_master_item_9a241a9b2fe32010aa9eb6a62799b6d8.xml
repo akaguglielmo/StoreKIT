@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>sn_apptmnt_booking_appointment_booking</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Embed Appointments Form">0e241a9b2fe32010aa9eb6a62799b6c2</embedded_screen>
+        <item_view/>
+        <name>Embed Appointments Main Item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-21 16:08:06</sys_created_on>
+        <sys_id>9a241a9b2fe32010aa9eb6a62799b6d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Embed Appointments Main Item</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_master_item_9a241a9b2fe32010aa9eb6a62799b6d8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-21 16:08:06</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Embed Appointments View Config">ce241a9b2fe32010aa9eb6a62799b6ba</view_config>
+    </sys_sg_master_item>
+</record_update>
