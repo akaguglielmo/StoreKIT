@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="DELETE">
+        <data_item_field_name>model</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>200</order>
+        <record_id_field/>
+        <screen display_value="Details">45b553e52f3f6010aa9eb6a62799b6f0</screen>
+        <screen_data_item_table>alm_asset</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-24 20:53:46</sys_created_on>
+        <sys_id>a002914edb10b4108d07d2984b96194c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>model</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_screen_field_a002914edb10b4108d07d2984b96194c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-24 20:53:46</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_translated_text action="DELETE" query="documentkey=a002914edb10b4108d07d2984b96194c"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</application>
+        <file_path/>
+        <instance_id>c6669e5adb74d4907527d7c8f4961942</instance_id>
+        <instance_name>dev104046</instance_name>
+        <name>sys_sg_screen_field_a002914edb10b4108d07d2984b96194c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field"><sys_sg_screen_field action="INSERT_OR_UPDATE"><data_item_field_name>model</data_item_field_name><description_text/><description_text_field/><description_text_type/><field_name/><hidden>false</hidden><order>200</order><record_id_field/><screen display_value="Details">45b553e52f3f6010aa9eb6a62799b6f0</screen><screen_data_item_table>alm_asset</screen_data_item_table><sys_class_name>sys_sg_screen_field</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-05-24 20:53:46</sys_created_on><sys_id>a002914edb10b4108d07d2984b96194c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>model</sys_name><sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package><sys_policy/><sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope><sys_update_name>sys_sg_screen_field_a002914edb10b4108d07d2984b96194c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-05-24 20:53:46</sys_updated_on><type>auto</type><value_only>false</value_only></sys_sg_screen_field><sys_translated_text action="delete_multiple" query="documentkey=a002914edb10b4108d07d2984b96194c"/></record_update>]]></payload>
+        <payload_hash>227848184</payload_hash>
+        <record_name>model</record_name>
+        <reverted_from/>
+        <source>734c8a8d2fe32010aa9eb6a62799b6c0</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-24 20:53:46</sys_created_on>
+        <sys_id>e002914edb10b4108d07d2984b96194e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179a027b0400000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-24 20:53:46</sys_updated_on>
+        <type>Screen fields</type>
+        <update_guid>2c02914e4410b410985129b586189a4d</update_guid>
+        <update_guid_history>2c02914e4410b410985129b586189a4d:227848184</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-25 10:07:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_screen_field">sys_sg_screen_field</sys_db_object>
+        <sys_id>0f4214b8c1d84b7089c46a2e609a0900</sys_id>
+        <sys_metadata>a002914edb10b4108d07d2984b96194c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>model</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_scope_delete display_value="">0d898bf3e6634644a1482afa16c3d490</sys_scope_delete>
+        <sys_update_name>sys_sg_screen_field_a002914edb10b4108d07d2984b96194c</sys_update_name>
+        <sys_update_version display_value="sys_sg_screen_field_a002914edb10b4108d07d2984b96194c">e002914edb10b4108d07d2984b96194e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-25 10:07:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

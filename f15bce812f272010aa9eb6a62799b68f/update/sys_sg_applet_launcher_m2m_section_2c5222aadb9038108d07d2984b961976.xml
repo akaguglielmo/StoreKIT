@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Services">0f6a4fd12fa32010aa9eb6a62799b640</applet_launcher>
+        <order>20</order>
+        <section display_value="Catalog">9c526a2adb9038108d07d2984b96192d</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-26 16:01:36</sys_created_on>
+        <sys_id>2c5222aadb9038108d07d2984b961976</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_2c5222aadb9038108d07d2984b961976</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-26 16:01:36</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>

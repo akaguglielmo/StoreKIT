@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_redirect_dest_field">
+    <sys_sg_redirect_dest_field action="DELETE">
+        <button display_value="Goto Client">de548a1b2fa32010aa9eb6a62799b6dc</button>
+        <button_table>csm_consumer</button_table>
+        <constant_value/>
+        <destination_ui_parameter display_value="sysid">79a85dc2db50b4108d07d2984b9619bd</destination_ui_parameter>
+        <source_field>sys_id</source_field>
+        <source_ui_parameter/>
+        <sys_class_name>sys_sg_redirect_dest_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-24 21:44:40</sys_created_on>
+        <sys_id>96add10adb50b4108d07d2984b9619ed</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>79a85dc2db50b4108d07d2984b9619bd</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_redirect_dest_field_96add10adb50b4108d07d2984b9619ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-24 21:55:24</sys_updated_on>
+        <type>field</type>
+    </sys_sg_redirect_dest_field>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</application>
+        <file_path/>
+        <instance_id>c6669e5adb74d4907527d7c8f4961942</instance_id>
+        <instance_name>dev104046</instance_name>
+        <name>sys_sg_redirect_dest_field_96add10adb50b4108d07d2984b9619ed</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_redirect_dest_field"><sys_sg_redirect_dest_field action="INSERT_OR_UPDATE"><button display_value="Goto Client">de548a1b2fa32010aa9eb6a62799b6dc</button><button_table>csm_consumer</button_table><constant_value/><destination_ui_parameter display_value="sysid">79a85dc2db50b4108d07d2984b9619bd</destination_ui_parameter><source_field>sys_id</source_field><source_ui_parameter/><sys_class_name>sys_sg_redirect_dest_field</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-05-24 21:44:40</sys_created_on><sys_id>96add10adb50b4108d07d2984b9619ed</sys_id><sys_mod_count>6</sys_mod_count><sys_name>79a85dc2db50b4108d07d2984b9619bd</sys_name><sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package><sys_policy/><sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope><sys_update_name>sys_sg_redirect_dest_field_96add10adb50b4108d07d2984b9619ed</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-05-24 21:55:24</sys_updated_on><type>field</type></sys_sg_redirect_dest_field></record_update>]]></payload>
+        <payload_hash>-102440577</payload_hash>
+        <record_name>79a85dc2db50b4108d07d2984b9619bd</record_name>
+        <reverted_from/>
+        <source>734c8a8d2fe32010aa9eb6a62799b6c0</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-24 21:55:24</sys_created_on>
+        <sys_id>6b10e98adb50b4108d07d2984b961962</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179a0601d430000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-24 21:55:24</sys_updated_on>
+        <type>Redirection destination fields</type>
+        <update_guid>6310e98a3750b41040702511f9734b62</update_guid>
+        <update_guid_history>6310e98a3750b41040702511f9734b62:-102440577,631f158a6250b41092c115a1d21d8ead:1829688257,f1de518a5850b410cc4edf587d3c6b74:-1705147540,43be9d4a6350b410992b6ea0e8c73693:-102440577,b79e914a8c50b410ae3fd21526ad7f0b:-1705147540,540e154a6c50b410f8e7b8b4573a8d2f:-102440577,9eadd10aa550b4103c2af2ed2ef6d8ef:1246576644</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2021-05-25 07:38:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_redirect_dest_field">sys_sg_redirect_dest_field</sys_db_object>
+        <sys_id>040c1847bccd433a85f0d80ea5229871</sys_id>
+        <sys_metadata>96add10adb50b4108d07d2984b9619ed</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>79a85dc2db50b4108d07d2984b9619bd</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_scope_delete display_value="">0d898bf3e6634644a1482afa16c3d490</sys_scope_delete>
+        <sys_update_name>sys_sg_redirect_dest_field_96add10adb50b4108d07d2984b9619ed</sys_update_name>
+        <sys_update_version display_value="sys_sg_redirect_dest_field_96add10adb50b4108d07d2984b9619ed">6b10e98adb50b4108d07d2984b961962</sys_update_version>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2021-05-25 07:38:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="sales_play" label="Sales play" language="en" table="x_134851_storekit_fidelity_card">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>sales_play</element>
+            <help/>
+            <hint/>
+            <label>Sales play</label>
+            <language>en</language>
+            <name>x_134851_storekit_fidelity_card</name>
+            <plural>Sales plays</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-05-26 15:16:29</sys_created_on>
+            <sys_id>abf752aedb5038108d07d2984b96194a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Sales play</sys_name>
+            <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+            <sys_update_name>sys_documentation_x_134851_storekit_fidelity_card_sales_play_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-05-26 15:16:29</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

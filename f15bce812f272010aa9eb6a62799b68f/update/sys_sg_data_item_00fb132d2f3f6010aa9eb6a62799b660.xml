@@ -5,21 +5,22 @@
         <group_by/>
         <instance_relative_url_qc/>
         <name>Fidelity Activity</name>
-        <query_condition table="x_134851_storekit_fidelity_activity">sys_id={{sys_id}}<item endquery="false" field="sys_id" goto="false" newquery="false" operator="=" or="false" value="{{sys_id}}"/>
+        <query_condition table="x_134851_storekit_fidelity_activity">fidelity_card.sys_id={{sys_id}}^ORDERBYDESCdate<item endquery="false" field="fidelity_card.sys_id" goto="false" newquery="false" operator="=" or="false" value="{{sys_id}}"/>
+            <item endquery="false" field="" goto="false" newquery="false" operator="ORDERBYDESC" or="false" value="date"/>
         </query_condition>
         <query_condition_script/>
         <sys_class_name>sys_sg_data_item</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-28 21:08:01</sys_created_on>
         <sys_id>00fb132d2f3f6010aa9eb6a62799b660</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Fidelity Activity</sys_name>
         <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
         <sys_policy/>
         <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
         <sys_update_name>sys_sg_data_item_00fb132d2f3f6010aa9eb6a62799b660</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-04-28 21:12:55</sys_updated_on>
+        <sys_updated_on>2021-05-26 15:39:56</sys_updated_on>
         <table>x_134851_storekit_fidelity_activity</table>
     </sys_sg_data_item>
     <sys_translated_text action="delete_multiple" query="documentkey=00fb132d2f3f6010aa9eb6a62799b660"/>

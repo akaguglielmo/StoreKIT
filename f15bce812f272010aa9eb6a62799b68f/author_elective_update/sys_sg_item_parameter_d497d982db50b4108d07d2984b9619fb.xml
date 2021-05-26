@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="DELETE">
+        <default_value/>
+        <name>sysid</name>
+        <parent>49475582db50b4108d07d2984b9619b8</parent>
+        <parent_table>sys_sg_data_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-24 21:18:03</sys_created_on>
+        <sys_id>d497d982db50b4108d07d2984b9619fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sysid</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_d497d982db50b4108d07d2984b9619fb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-24 21:18:03</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</application>
+        <file_path/>
+        <instance_id>c6669e5adb74d4907527d7c8f4961942</instance_id>
+        <instance_name>dev104046</instance_name>
+        <name>sys_sg_item_parameter_d497d982db50b4108d07d2984b9619fb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter"><sys_sg_item_parameter action="INSERT_OR_UPDATE"><default_value/><name>sysid</name><parent>49475582db50b4108d07d2984b9619b8</parent><parent_table>sys_sg_data_item</parent_table><sys_class_name>sys_sg_item_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-05-24 21:18:03</sys_created_on><sys_id>d497d982db50b4108d07d2984b9619fb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sysid</sys_name><sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package><sys_policy/><sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope><sys_update_name>sys_sg_item_parameter_d497d982db50b4108d07d2984b9619fb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-05-24 21:18:03</sys_updated_on><type>string</type></sys_sg_item_parameter></record_update>]]></payload>
+        <payload_hash>2012261102</payload_hash>
+        <record_name>sysid</record_name>
+        <reverted_from/>
+        <source>734c8a8d2fe32010aa9eb6a62799b6c0</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-24 21:18:03</sys_created_on>
+        <sys_id>ac97d982db50b4108d07d2984b9619fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179a03decd50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-24 21:18:03</sys_updated_on>
+        <type>Item Parameter</type>
+        <update_guid>e497d9821a50b4107e4c0d8c08aa55fe</update_guid>
+        <update_guid_history>e497d9821a50b4107e4c0d8c08aa55fe:2012261102</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-24 22:01:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_item_parameter">sys_sg_item_parameter</sys_db_object>
+        <sys_id>531f224e79fb433d9c8cffd5db2a5181</sys_id>
+        <sys_metadata>d497d982db50b4108d07d2984b9619fb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sysid</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_scope_delete display_value="">0d898bf3e6634644a1482afa16c3d490</sys_scope_delete>
+        <sys_update_name>sys_sg_item_parameter_d497d982db50b4108d07d2984b9619fb</sys_update_name>
+        <sys_update_version display_value="sys_sg_item_parameter_d497d982db50b4108d07d2984b9619fb">ac97d982db50b4108d07d2984b9619fe</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-24 22:01:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

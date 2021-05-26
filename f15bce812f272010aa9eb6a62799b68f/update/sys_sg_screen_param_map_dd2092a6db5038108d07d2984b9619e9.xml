@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map">
+    <sys_sg_screen_param_map action="INSERT_OR_UPDATE">
+        <item_parameter display_value="sys_id">ba0ddf6d2f3f6010aa9eb6a62799b6bd</item_parameter>
+        <screen display_value="Fidelity Suggestions">552092a6db5038108d07d2984b9619d0</screen>
+        <sys_class_name>sys_sg_screen_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-26 14:42:12</sys_created_on>
+        <sys_id>dd2092a6db5038108d07d2984b9619e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ba0ddf6d2f3f6010aa9eb6a62799b6bd</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_screen_param_map_dd2092a6db5038108d07d2984b9619e9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-26 14:42:12</sys_updated_on>
+        <ui_parameter display_value="sys_id">5d2092a6db5038108d07d2984b9619e3</ui_parameter>
+    </sys_sg_screen_param_map>
+</record_update>

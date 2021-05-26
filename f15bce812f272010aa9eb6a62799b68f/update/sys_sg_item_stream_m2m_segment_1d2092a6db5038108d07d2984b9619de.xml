@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="Fidelity Suggestions Item Stream">552092a6db5038108d07d2984b9619d8</item_stream>
+        <segment display_value="Fidelity Suggestions Item Stream Segment">d52092a6db5038108d07d2984b9619d3</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-26 14:42:12</sys_created_on>
+        <sys_id>1d2092a6db5038108d07d2984b9619de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_1d2092a6db5038108d07d2984b9619de</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-26 14:42:12</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>

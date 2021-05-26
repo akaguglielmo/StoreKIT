@@ -6,6 +6,7 @@
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element attributes="pdf_cell_type=image" label="Picture" max_length="40" name="picture" type="user_image"/>
         <element label="Points" max_length="40" name="points" type="integer"/>
+        <element label="Sales play" max_length="65536" name="sales_play" type="html"/>
         <index name="index">
             <element name="consumer"/>
         </index>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map">
+    <sys_sg_screen_param_map action="INSERT_OR_UPDATE">
+        <item_parameter display_value="sysid">b781a90edb50b4108d07d2984b9619e8</item_parameter>
+        <screen display_value="Client Detail">bdd61d42db50b4108d07d2984b961977</screen>
+        <sys_class_name>sys_sg_screen_param_map</sys_class_name>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2021-05-25 07:40:02</sys_created_on>
+        <sys_id>5be56382db58b4108d07d2984b961987</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b781a90edb50b4108d07d2984b9619e8</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_screen_param_map_5be56382db58b4108d07d2984b961987</sys_update_name>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2021-05-25 07:40:02</sys_updated_on>
+        <ui_parameter display_value="ClientDetailID">cec56382db58b4108d07d2984b961992</ui_parameter>
+    </sys_sg_screen_param_map>
+</record_update>

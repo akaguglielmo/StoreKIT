@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="DELETE">
+        <description/>
+        <execution_script><![CDATA[(function WriteBackAction(input) {
+    //Type appropriate comment here, and begin script below
+ gs.info('STOREKIT: '+input.sysid)
+})(input);]]></execution_script>
+        <name>Goto Client Detail</name>
+        <parameter_screen/>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-24 22:05:00</sys_created_on>
+        <sys_id>2f02e14edb50b4108d07d2984b9619cb</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Goto Client Detail</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_2f02e14edb50b4108d07d2984b9619cb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-24 22:06:20</sys_updated_on>
+        <table>csm_consumer</table>
+        <template/>
+        <type>script</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="DELETE" query="documentkey=2f02e14edb50b4108d07d2984b9619cb"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</application>
+        <file_path/>
+        <instance_id>c6669e5adb74d4907527d7c8f4961942</instance_id>
+        <instance_name>dev104046</instance_name>
+        <name>sys_sg_write_back_action_item_2f02e14edb50b4108d07d2984b9619cb</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_sg_write_back_action_item"&gt;&lt;sys_sg_write_back_action_item action="INSERT_OR_UPDATE"&gt;&lt;description/&gt;&lt;execution_script&gt;&lt;![CDATA[(function WriteBackAction(input) {
+    //Type appropriate comment here, and begin script below
+ gs.info('STOREKIT: '+input.sysid)
+})(input);]]&gt;&lt;/execution_script&gt;&lt;name&gt;Goto Client Detail&lt;/name&gt;&lt;parameter_screen/&gt;&lt;query_condition/&gt;&lt;sys_class_name&gt;sys_sg_write_back_action_item&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-05-24 22:05:00&lt;/sys_created_on&gt;&lt;sys_id&gt;2f02e14edb50b4108d07d2984b9619cb&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Goto Client Detail&lt;/sys_name&gt;&lt;sys_package display_value="StoreKIT" source="x_134851_storekit"&gt;f15bce812f272010aa9eb6a62799b68f&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="StoreKIT"&gt;f15bce812f272010aa9eb6a62799b68f&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_sg_write_back_action_item_2f02e14edb50b4108d07d2984b9619cb&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-05-24 22:06:20&lt;/sys_updated_on&gt;&lt;table&gt;csm_consumer&lt;/table&gt;&lt;template/&gt;&lt;type&gt;script&lt;/type&gt;&lt;use_current_record_as_condition&gt;true&lt;/use_current_record_as_condition&gt;&lt;use_fields_for_ref_lookup&gt;false&lt;/use_fields_for_ref_lookup&gt;&lt;/sys_sg_write_back_action_item&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=2f02e14edb50b4108d07d2984b9619cb"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1708365190</payload_hash>
+        <record_name>Goto Client Detail</record_name>
+        <reverted_from/>
+        <source>734c8a8d2fe32010aa9eb6a62799b6c0</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-24 22:06:20</sys_created_on>
+        <sys_id>a7922d4edb50b4108d07d2984b9619ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179a06a20630000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-24 22:06:20</sys_updated_on>
+        <type>Action item</type>
+        <update_guid>af922d4ec350b4104d8d0d72785706ad</update_guid>
+        <update_guid_history>af922d4ec350b4104d8d0d72785706ad:-1708365190,4052ed0ee750b410711582eacf9169d4:-1577759229</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-25 07:12:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_write_back_action_item">sys_sg_write_back_action_item</sys_db_object>
+        <sys_id>542f235fb4cf4d309dd5ce5c4d057610</sys_id>
+        <sys_metadata>2f02e14edb50b4108d07d2984b9619cb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Goto Client Detail</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_scope_delete display_value="">0d898bf3e6634644a1482afa16c3d490</sys_scope_delete>
+        <sys_update_name>sys_sg_write_back_action_item_2f02e14edb50b4108d07d2984b9619cb</sys_update_name>
+        <sys_update_version display_value="sys_sg_write_back_action_item_2f02e14edb50b4108d07d2984b9619cb">a7922d4edb50b4108d07d2984b9619ae</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-25 07:12:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

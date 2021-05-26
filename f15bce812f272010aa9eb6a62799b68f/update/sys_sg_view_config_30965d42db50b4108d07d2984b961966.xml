@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config">
+    <sys_sg_view_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <name>Client Detail View Config</name>
+        <sys_class_name>sys_sg_view_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-24 21:13:42</sys_created_on>
+        <sys_id>30965d42db50b4108d07d2984b961966</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Client Detail View Config</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_view_config_30965d42db50b4108d07d2984b961966</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-24 21:13:42</sys_updated_on>
+        <table>csm_consumer</table>
+        <template display_value="Applet 04">60de27930f202010e70a4abec4767ebe</template>
+    </sys_sg_view_config>
+</record_update>

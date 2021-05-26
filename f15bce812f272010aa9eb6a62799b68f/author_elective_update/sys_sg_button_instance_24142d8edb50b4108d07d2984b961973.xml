@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Goto Client">de548a1b2fa32010aa9eb6a62799b6dc</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name>consumer</field_name>
+        <icon/>
+        <label/>
+        <location>field</location>
+        <name/>
+        <order>10</order>
+        <parent>e30106572fa32010aa9eb6a62799b605</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-24 22:12:40</sys_created_on>
+        <sys_id>24142d8edb50b4108d07d2984b961973</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_button_instance_24142d8edb50b4108d07d2984b961973</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-24 22:12:40</sys_updated_on>
+        <table>x_134851_storekit_fidelity_card</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=24142d8edb50b4108d07d2984b961973"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</application>
+        <file_path/>
+        <instance_id>c6669e5adb74d4907527d7c8f4961942</instance_id>
+        <instance_name>dev104046</instance_name>
+        <name>sys_sg_button_instance_24142d8edb50b4108d07d2984b961973</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Goto Client">de548a1b2fa32010aa9eb6a62799b6dc</button><color_theme>primary</color_theme><description/><field_name>consumer</field_name><icon/><label/><location>field</location><name/><order>10</order><parent>e30106572fa32010aa9eb6a62799b605</parent><parent_table>sys_sg_screen</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-05-24 22:12:40</sys_created_on><sys_id>24142d8edb50b4108d07d2984b961973</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package><sys_policy/><sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope><sys_update_name>sys_sg_button_instance_24142d8edb50b4108d07d2984b961973</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-05-24 22:12:40</sys_updated_on><table>x_134851_storekit_fidelity_card</table></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=24142d8edb50b4108d07d2984b961973"/></record_update>]]></payload>
+        <payload_hash>-1800353516</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>734c8a8d2fe32010aa9eb6a62799b6c0</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-24 22:12:40</sys_created_on>
+        <sys_id>60142d8edb50b4108d07d2984b961976</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179a06fef170000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-24 22:12:40</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>a8142d8e3250b410a3f8dc5db20b7375</update_guid>
+        <update_guid_history>a8142d8e3250b410a3f8dc5db20b7375:-1800353516</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-25 07:14:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>6e214f11a3c74c54ba67c521d0dc6fc4</sys_id>
+        <sys_metadata>24142d8edb50b4108d07d2984b961973</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_scope_delete display_value="">0d898bf3e6634644a1482afa16c3d490</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_24142d8edb50b4108d07d2984b961973</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_24142d8edb50b4108d07d2984b961973">60142d8edb50b4108d07d2984b961976</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-25 07:14:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

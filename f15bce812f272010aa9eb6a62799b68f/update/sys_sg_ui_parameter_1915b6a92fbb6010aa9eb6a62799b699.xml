@@ -14,7 +14,7 @@
         <max_entries/>
         <multi_entry>false</multi_entry>
         <multi_select>false</multi_select>
-        <name>query</name>
+        <name>Keyword</name>
         <order>1</order>
         <parameter_type>screen</parameter_type>
         <placeholder>Search product</placeholder>
@@ -25,14 +25,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-28 18:18:16</sys_created_on>
         <sys_id>1915b6a92fbb6010aa9eb6a62799b699</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>query</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Keyword</sys_name>
         <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
         <sys_policy/>
         <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
         <sys_update_name>sys_sg_ui_parameter_1915b6a92fbb6010aa9eb6a62799b699</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-04-28 18:18:16</sys_updated_on>
+        <sys_updated_on>2021-05-24 21:06:11</sys_updated_on>
         <table_name/>
         <virtual_field_value>false</virtual_field_value>
     </sys_sg_ui_parameter>

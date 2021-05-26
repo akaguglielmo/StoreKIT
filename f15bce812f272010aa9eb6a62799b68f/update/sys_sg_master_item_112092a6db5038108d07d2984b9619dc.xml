@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_134851_storekit_fidelity_suggestion</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Fidelity Suggestions Embedded Form">6120d2a6db5038108d07d2984b961942</embedded_screen>
+        <item_view/>
+        <name>Fidelity Suggestions Master Item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-26 14:42:12</sys_created_on>
+        <sys_id>112092a6db5038108d07d2984b9619dc</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Fidelity Suggestions Master Item</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_master_item_112092a6db5038108d07d2984b9619dc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-26 15:04:25</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Fidelity Suggestions View Config">912092a6db5038108d07d2984b9619ec</view_config>
+    </sys_sg_master_item>
+</record_update>
