@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
     <sys_sg_form_segment action="INSERT_OR_UPDATE">
-        <embedded_screen display_value="Client Cases">66f2588f2f676010aa9eb6a62799b65a</embedded_screen>
+        <embedded_screen/>
         <form display_value="Client L&amp;F Form">856dc40b2f676010aa9eb6a62799b678</form>
         <header_view_config/>
         <is_sticky>false</is_sticky>

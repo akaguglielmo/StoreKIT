@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="DELETE">
+        <available_offline>false</available_offline>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>on_demand</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Address-Book">52f2588f2f676010aa9eb6a62799b657</icon>
+        <name>Cases</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2021-04-20 12:05:12</sys_created_on>
+        <sys_id>66f2588f2f676010aa9eb6a62799b65a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Cases</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_list_screen_66f2588f2f676010aa9eb6a62799b65a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-07 16:06:05</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="DELETE" query="documentkey=66f2588f2f676010aa9eb6a62799b65a"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</application>
+        <file_path/>
+        <instance_id>c6669e5adb74d4907527d7c8f4961942</instance_id>
+        <instance_name>dev104046</instance_name>
+        <name>sys_sg_list_screen_66f2588f2f676010aa9eb6a62799b65a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen"><sys_sg_list_screen action="INSERT_OR_UPDATE"><available_offline>false</available_offline><description/><dynamic_prefetch_count/><empty_state/><fetch_type>on_demand</fetch_type><filter/><hide_filters>false</hide_filters><hide_screen_name>false</hide_screen_name><icon display_value="icon-Address-Book">52f2588f2f676010aa9eb6a62799b657</icon><name>Cases</name><roles_override/><sys_class_name>sys_sg_list_screen</sys_class_name><sys_created_by>max</sys_created_by><sys_created_on>2021-04-20 12:05:12</sys_created_on><sys_id>66f2588f2f676010aa9eb6a62799b65a</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Cases</sys_name><sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package><sys_policy/><sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope><sys_update_name>sys_sg_list_screen_66f2588f2f676010aa9eb6a62799b65a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-07 16:06:05</sys_updated_on></sys_sg_list_screen><sys_translated_text action="delete_multiple" query="documentkey=66f2588f2f676010aa9eb6a62799b65a"/></record_update>]]></payload>
+        <payload_hash>641267791</payload_hash>
+        <record_name>Cases</record_name>
+        <reverted_from/>
+        <source>734c8a8d2fe32010aa9eb6a62799b6c0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-07 16:06:05</sys_created_on>
+        <sys_id>436658eadb2430108d07d2984b96199f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179e73959a60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-07 16:06:05</sys_updated_on>
+        <type>List screen</type>
+        <update_guid>8b6658ea7e243010ebde8315ca041a9e</update_guid>
+        <update_guid_history>8b6658ea7e243010ebde8315ca041a9e:641267791,26f2588f4a676010739fc40a1f886b5c:94112563</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-07 16:15:02</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_list_screen">sys_sg_list_screen</sys_db_object>
+        <sys_id>435c7cc948a943aa9450fa8688e7e491</sys_id>
+        <sys_metadata>66f2588f2f676010aa9eb6a62799b65a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cases</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_scope_delete display_value="">0d898bf3e6634644a1482afa16c3d490</sys_scope_delete>
+        <sys_update_name>sys_sg_list_screen_66f2588f2f676010aa9eb6a62799b65a</sys_update_name>
+        <sys_update_version display_value="sys_sg_list_screen_66f2588f2f676010aa9eb6a62799b65a">436658eadb2430108d07d2984b96199f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-07 16:15:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

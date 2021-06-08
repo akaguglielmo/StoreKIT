@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Fidelity Suggestion" max_length="40" name="x_134851_storekit_fidelity_suggestion" type="collection">
+    <element label="Fidelity Suggestion" max_length="40" name="x_134851_storekit_fidelity_suggestion" sizeclass="2" type="collection">
         <element label="Description" max_length="4000" name="description" type="string"/>
         <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Fidelity Card" max_length="32" name="fidelity_card" reference="x_134851_storekit_fidelity_card" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Reason" max_length="100" name="reason" type="string"/>

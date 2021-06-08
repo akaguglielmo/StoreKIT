@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Transaction" max_length="40" name="x_134851_storekit_transaction" sizeclass="1" type="collection">
+        <element label="Fidelity Card" max_length="32" name="fidelity_card" reference="x_134851_storekit_fidelity_card" type="reference"/>
+        <element label="Price" max_length="20" name="price" type="decimal"/>
+        <element label="Quantity" max_length="40" name="quantity" type="integer"/>
+        <element label="Store" max_length="32" name="store" reference="cmn_location" type="reference"/>
+        <element label="Total" max_length="20" name="total" type="decimal"/>
+        <element label="VAT" max_length="20" name="vat" type="decimal"/>
+        <index name="index">
+            <element name="fidelity_card"/>
+        </index>
+        <index name="index2">
+            <element name="store"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="DELETE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Customer Cases</name>
+        <query_condition table="sn_customerservice_case">consumer={{consumer}}<item endquery="false" field="consumer" goto="false" newquery="false" operator="=" or="false" value="{{consumer}}"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-04 09:23:30</sys_created_on>
+        <sys_id>a08d9f1ddba030108d07d2984b9619f6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Customer Cases</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_data_item_a08d9f1ddba030108d07d2984b9619f6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-04 09:23:50</sys_updated_on>
+        <table>sn_customerservice_case</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="DELETE" query="documentkey=a08d9f1ddba030108d07d2984b9619f6"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</application>
+        <file_path/>
+        <instance_id>c6669e5adb74d4907527d7c8f4961942</instance_id>
+        <instance_name>dev104046</instance_name>
+        <name>sys_sg_data_item_a08d9f1ddba030108d07d2984b9619f6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item"><sys_sg_data_item action="INSERT_OR_UPDATE"><condition_type>declarative</condition_type><description/><group_by/><instance_relative_url_qc/><name>Customer Cases</name><query_condition table="sn_customerservice_case">consumer={{consumer}}<item endquery="false" field="consumer" goto="false" newquery="false" operator="=" or="false" value="{{consumer}}"/></query_condition><query_condition_script/><sys_class_name>sys_sg_data_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-04 09:23:30</sys_created_on><sys_id>a08d9f1ddba030108d07d2984b9619f6</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Customer Cases</sys_name><sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package><sys_policy/><sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope><sys_update_name>sys_sg_data_item_a08d9f1ddba030108d07d2984b9619f6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-04 09:23:50</sys_updated_on><table>sn_customerservice_case</table></sys_sg_data_item><sys_translated_text action="delete_multiple" query="documentkey=a08d9f1ddba030108d07d2984b9619f6"/></record_update>]]></payload>
+        <payload_hash>2135999731</payload_hash>
+        <record_name>Customer Cases</record_name>
+        <reverted_from/>
+        <source>734c8a8d2fe32010aa9eb6a62799b6c0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-04 09:23:50</sys_created_on>
+        <sys_id>ad9ddf1ddba030108d07d2984b961903</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179d655fef60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-04 09:23:50</sys_updated_on>
+        <type>Data Item</type>
+        <update_guid>659ddf1d32a0301085d9459617155b03</update_guid>
+        <update_guid_history>659ddf1d32a0301085d9459617155b03:2135999731,ec8d9f1ddca030102768570a0cc4b1f8:-575287867</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-04 09:33:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_data_item">sys_sg_data_item</sys_db_object>
+        <sys_id>94fcebabbde245609c0c0e91ed2af440</sys_id>
+        <sys_metadata>a08d9f1ddba030108d07d2984b9619f6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Customer Cases</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_scope_delete display_value="">0d898bf3e6634644a1482afa16c3d490</sys_scope_delete>
+        <sys_update_name>sys_sg_data_item_a08d9f1ddba030108d07d2984b9619f6</sys_update_name>
+        <sys_update_version display_value="sys_sg_data_item_a08d9f1ddba030108d07d2984b9619f6">ad9ddf1ddba030108d07d2984b961903</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-04 09:33:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -5,21 +5,22 @@
         <group_by/>
         <instance_relative_url_qc/>
         <name>Embedded List DI_Client Cases</name>
-        <query_condition/>
+        <query_condition table="sn_customerservice_case">^ORDERBYDESCsys_created_on<item endquery="false" field="" goto="false" newquery="false" operator="ORDERBYDESC" or="false" value="sys_created_on"/>
+        </query_condition>
         <query_condition_script/>
         <relationship>sn_customerservice_case.consumer</relationship>
         <sys_class_name>sys_sg_relationship_data_item</sys_class_name>
         <sys_created_by>max</sys_created_by>
         <sys_created_on>2021-04-20 11:53:41</sys_created_on>
         <sys_id>b15010cb2f676010aa9eb6a62799b646</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Embedded List DI_Client Cases</sys_name>
         <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
         <sys_policy/>
         <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
         <sys_update_name>sys_sg_relationship_data_item_b15010cb2f676010aa9eb6a62799b646</sys_update_name>
-        <sys_updated_by>max</sys_updated_by>
-        <sys_updated_on>2021-04-20 11:53:41</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-07 16:03:40</sys_updated_on>
         <table>sn_customerservice_case</table>
         <table_related_to>csm_consumer</table_related_to>
     </sys_sg_relationship_data_item>

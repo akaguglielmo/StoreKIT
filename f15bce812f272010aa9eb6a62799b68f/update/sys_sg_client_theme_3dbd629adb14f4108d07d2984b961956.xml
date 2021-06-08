@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_client_theme">
     <sys_sg_client_theme action="INSERT_OR_UPDATE">
         <name>Bata Colors</name>
-        <palette>{"Brand":"D42c1f","Secondary":"e5e5e5","Primary":"00CC00","Destructive":"CC0000"}</palette>
+        <palette>{"Brand":"D42c1f","Secondary":"e5e5e5","Primary":"800d04","Destructive":"CC0000"}</palette>
         <sys_class_name>sys_sg_client_theme</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-05-25 22:13:39</sys_created_on>
         <sys_id>3dbd629adb14f4108d07d2984b961956</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Bata Colors</sys_name>
         <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
         <sys_policy/>
         <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
         <sys_update_name>sys_sg_client_theme_3dbd629adb14f4108d07d2984b961956</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-05-26 14:08:48</sys_updated_on>
+        <sys_updated_on>2021-05-31 17:42:01</sys_updated_on>
     </sys_sg_client_theme>
     <sys_translated_text action="delete_multiple" query="documentkey=3dbd629adb14f4108d07d2984b961956"/>
 </record_update>
