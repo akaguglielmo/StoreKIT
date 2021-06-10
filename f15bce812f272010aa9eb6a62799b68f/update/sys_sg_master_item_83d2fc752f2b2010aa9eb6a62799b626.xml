@@ -2,8 +2,8 @@
     <sys_sg_master_item action="INSERT_OR_UPDATE">
         <condition_order/>
         <datasource_table>x_134851_storekit_consumer_product</datasource_table>
-        <datasource_table_condition table="x_134851_storekit_consumer_product">dateONThis week@javascript:gs.beginningOfThisWeek()@javascript:gs.endOfThisWeek()^ORdateONLast week@javascript:gs.beginningOfLastWeek()@javascript:gs.endOfLastWeek()<item endquery="false" field="date" goto="false" newquery="false" operator="ON" or="false" value="This week@javascript:gs.beginningOfThisWeek()@javascript:gs.endOfThisWeek()"/>
-            <item endquery="false" field="date" goto="false" newquery="false" operator="ON" or="true" value="Last week@javascript:gs.beginningOfLastWeek()@javascript:gs.endOfLastWeek()"/>
+        <datasource_table_condition table="x_134851_storekit_consumer_product">dateONThis month@javascript:gs.beginningOfThisMonth()@javascript:gs.endOfThisMonth()^ORdateONLast month@javascript:gs.beginningOfLastMonth()@javascript:gs.endOfLastMonth()<item endquery="false" field="date" goto="false" newquery="false" operator="ON" or="false" value="This month@javascript:gs.beginningOfThisMonth()@javascript:gs.endOfThisMonth()"/>
+            <item endquery="false" field="date" goto="false" newquery="false" operator="ON" or="true" value="Last month@javascript:gs.beginningOfLastMonth()@javascript:gs.endOfLastMonth()"/>
         </datasource_table_condition>
         <embedded_screen/>
         <item_view/>
@@ -12,14 +12,14 @@
         <sys_created_by>max</sys_created_by>
         <sys_created_on>2021-04-16 17:12:06</sys_created_on>
         <sys_id>83d2fc752f2b2010aa9eb6a62799b626</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Last Products Master Item</sys_name>
         <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
         <sys_policy/>
         <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
         <sys_update_name>sys_sg_master_item_83d2fc752f2b2010aa9eb6a62799b626</sys_update_name>
-        <sys_updated_by>max</sys_updated_by>
-        <sys_updated_on>2021-04-16 17:12:50</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-09 05:56:57</sys_updated_on>
         <use_view_config>true</use_view_config>
         <view_config display_value="Last Products View Config">07d2fc752f2b2010aa9eb6a62799b62d</view_config>
     </sys_sg_master_item>

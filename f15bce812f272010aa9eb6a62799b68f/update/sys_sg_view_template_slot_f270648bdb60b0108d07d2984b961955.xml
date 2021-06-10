@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_template_slot">
+    <sys_sg_view_template_slot action="INSERT_OR_UPDATE">
+        <name>text_04</name>
+        <sys_class_name>sys_sg_view_template_slot</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-09 06:07:00</sys_created_on>
+        <sys_id>f270648bdb60b0108d07d2984b961955</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>text_04</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_view_template_slot_f270648bdb60b0108d07d2984b961955</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-09 06:07:00</sys_updated_on>
+        <type>Text</type>
+        <view_template display_value="Last Product Sold with Picture">34106c4bdb60b0108d07d2984b961945</view_template>
+    </sys_sg_view_template_slot>
+</record_update>

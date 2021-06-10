@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="DELETE">
+        <applet_launcher display_value="Clients">c86ac7d12fa32010aa9eb6a62799b6c5</applet_launcher>
+        <order>10</order>
+        <section display_value="Today's Appointments">1c0570392f2b2010aa9eb6a62799b6ee</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2021-04-16 17:21:28</sys_created_on>
+        <sys_id>180570392f2b2010aa9eb6a62799b6f1</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_180570392f2b2010aa9eb6a62799b6f1</sys_update_name>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2021-04-16 17:21:52</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</application>
+        <file_path/>
+        <instance_id>c6669e5adb74d4907527d7c8f4961942</instance_id>
+        <instance_name>dev104046</instance_name>
+        <name>sys_sg_applet_launcher_m2m_section_180570392f2b2010aa9eb6a62799b6f1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section"><sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE"><applet_launcher display_value="Clients">c86ac7d12fa32010aa9eb6a62799b6c5</applet_launcher><order>10</order><section display_value="Today's Appointments">1c0570392f2b2010aa9eb6a62799b6ee</section><sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name><sys_created_by>max</sys_created_by><sys_created_on>2021-04-16 17:21:28</sys_created_on><sys_id>180570392f2b2010aa9eb6a62799b6f1</sys_id><sys_mod_count>2</sys_mod_count><sys_name/><sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package><sys_policy/><sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope><sys_update_name>sys_sg_applet_launcher_m2m_section_180570392f2b2010aa9eb6a62799b6f1</sys_update_name><sys_updated_by>max</sys_updated_by><sys_updated_on>2021-04-16 17:21:52</sys_updated_on></sys_sg_applet_launcher_m2m_section></record_update>]]></payload>
+        <payload_hash>102242094</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>797a43152fa32010aa9eb6a62799b632</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2021-04-16 17:21:52</sys_created_on>
+        <sys_id>0a1534392f2b2010aa9eb6a62799b6a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178dbb408c90000001</sys_recorded_at>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2021-04-16 17:21:52</sys_updated_on>
+        <type>Applet Launcher Sections</type>
+        <update_guid>42153439aa2b20100e764daa3d1baea8</update_guid>
+        <update_guid_history>42153439aa2b20100e764daa3d1baea8:102242094,9c15b039ee2b201031c90a183f500825:-1769619635,d0057039a12b201062792c64035457f3:653485932</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-09 16:36:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher_m2m_section">sys_sg_applet_launcher_m2m_section</sys_db_object>
+        <sys_id>13c1b3d5a307446283844b872d95f524</sys_id>
+        <sys_metadata>180570392f2b2010aa9eb6a62799b6f1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_scope_delete display_value="">0d898bf3e6634644a1482afa16c3d490</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_180570392f2b2010aa9eb6a62799b6f1</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_m2m_section_180570392f2b2010aa9eb6a62799b6f1">0a1534392f2b2010aa9eb6a62799b6a8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-09 16:36:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

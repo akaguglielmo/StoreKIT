@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
     <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
         <applet_launcher display_value="Clients">c86ac7d12fa32010aa9eb6a62799b6c5</applet_launcher>
-        <order>30</order>
+        <order>40</order>
         <section display_value="Clients">0458df512fe32010aa9eb6a62799b6a5</section>
         <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
         <sys_created_by>max</sys_created_by>
         <sys_created_on>2021-04-15 15:58:02</sys_created_on>
         <sys_id>1c58df512fe32010aa9eb6a62799b6a8</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name/>
         <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
         <sys_policy/>
         <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
         <sys_update_name>sys_sg_applet_launcher_m2m_section_1c58df512fe32010aa9eb6a62799b6a8</sys_update_name>
-        <sys_updated_by>max</sys_updated_by>
-        <sys_updated_on>2021-04-16 17:21:44</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-09 16:39:33</sys_updated_on>
     </sys_sg_applet_launcher_m2m_section>
 </record_update>

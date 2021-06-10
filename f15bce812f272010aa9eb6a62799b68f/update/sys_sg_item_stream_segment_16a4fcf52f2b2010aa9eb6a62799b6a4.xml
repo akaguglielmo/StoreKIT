@@ -4,7 +4,7 @@
         <interleave_order_direction>asc</interleave_order_direction>
         <name>Next Appointments Item Stream Segment</name>
         <order>10</order>
-        <screen display_value="Today's Appointments">16a4b8f52f2b2010aa9eb6a62799b6de</screen>
+        <screen/>
         <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
         <sys_created_by>max</sys_created_by>
         <sys_created_on>2021-04-16 17:19:57</sys_created_on>

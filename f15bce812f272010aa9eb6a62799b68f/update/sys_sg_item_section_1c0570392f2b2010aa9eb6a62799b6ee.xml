@@ -2,7 +2,7 @@
     <sys_sg_item_section action="INSERT_OR_UPDATE">
         <active>true</active>
         <data_item/>
-        <destination_screen display_value="Today's Appointments">16a4b8f52f2b2010aa9eb6a62799b6de</destination_screen>
+        <destination_screen/>
         <display_title>true</display_title>
         <hide_header>false</hide_header>
         <hide_section_if_empty>false</hide_section_if_empty>
@@ -14,16 +14,16 @@
         <sys_created_by>max</sys_created_by>
         <sys_created_on>2021-04-16 17:21:28</sys_created_on>
         <sys_id>1c0570392f2b2010aa9eb6a62799b6ee</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Today's Appointments</sys_name>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Next Appointments</sys_name>
         <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
         <sys_policy/>
         <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
         <sys_update_name>sys_sg_item_section_1c0570392f2b2010aa9eb6a62799b6ee</sys_update_name>
-        <sys_updated_by>max</sys_updated_by>
-        <sys_updated_on>2021-04-16 17:21:28</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-09 16:31:09</sys_updated_on>
         <table/>
-        <title>Today's Appointments</title>
+        <title>Next Appointments</title>
         <visible_condition/>
     </sys_sg_item_section>
 </record_update>
