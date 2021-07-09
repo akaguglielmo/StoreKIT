@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmn_schedule">
+    <cmn_schedule action="INSERT_OR_UPDATE">
+        <calendar_name>Massimiliano Dreon Personal Schedule</calendar_name>
+        <description/>
+        <document/>
+        <document_key/>
+        <is_legacy_schedule>true</is_legacy_schedule>
+        <label>Massimiliano Dreon Personal Schedule</label>
+        <name>Massimiliano Dreon Personal Schedule</name>
+        <parent/>
+        <plural_label/>
+        <read_only>false</read_only>
+        <sys_class_name>cmn_schedule</sys_class_name>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2021-06-17 17:34:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>059a887ddbb430108d07d2984b9619c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Massimiliano Dreon Personal Schedule</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>cmn_schedule_059a887ddbb430108d07d2984b9619c9</sys_update_name>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2021-06-17 17:34:36</sys_updated_on>
+        <time_zone>Europe/Rome</time_zone>
+        <type/>
+    </cmn_schedule>
+</record_update>

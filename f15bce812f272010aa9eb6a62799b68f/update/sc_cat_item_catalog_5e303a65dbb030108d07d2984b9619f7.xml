@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Time Off Request">04bf2265dbb030108d07d2984b9619f1</sc_cat_item>
+        <sc_catalog display_value="Store Catalog">1070c7192f632010aa9eb6a62799b651</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2021-06-17 10:59:50</sys_created_on>
+        <sys_id>5e303a65dbb030108d07d2984b9619f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Store Catalog.Rotation Schedule request</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_5e303a65dbb030108d07d2984b9619f7</sys_update_name>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2021-06-17 10:59:50</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

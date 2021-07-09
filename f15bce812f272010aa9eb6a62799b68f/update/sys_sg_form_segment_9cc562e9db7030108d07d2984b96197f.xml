@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
+    <sys_sg_form_segment action="INSERT_OR_UPDATE">
+        <embedded_screen display_value="Details">54c562e9db7030108d07d2984b96197d</embedded_screen>
+        <form display_value="Rotation Schedule Form">94c562e9db7030108d07d2984b96197a</form>
+        <header_view_config/>
+        <is_sticky>false</is_sticky>
+        <order>10</order>
+        <sys_class_name>sys_sg_form_segment</sys_class_name>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2021-06-17 10:14:06</sys_created_on>
+        <sys_id>9cc562e9db7030108d07d2984b96197f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_form_segment_9cc562e9db7030108d07d2984b96197f</sys_update_name>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2021-06-17 10:14:06</sys_updated_on>
+    </sys_sg_form_segment>
+</record_update>
